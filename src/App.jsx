@@ -66,6 +66,39 @@ function SongView({ songs }) {
   const [song, setSong] = useState(null);
   const [chordProData, setChordProData] = useState('');
   const [transposeDelta, setTransposeDelta] = useState(0);
+  const [usePolishChords, setUsePolishChords] = useState(true);
+
+  // Funkcja konwertująca akord z formatu międzynarodowego na polski (z małymi literami dla moll, H zamiast B itp.)
+  const toPolishChord = (chord) => {
+    if (!chord) return chord;
+    // Regex do wyciągnięcia: Bazy(A-G), Znaku(b/#), Moll(m), Reszty
+    const match = chord.match(/^([A-G])([b#]?)(m?)(.*)$/);
+    if (!match) return chord;
+
+    let [_, base, acc, min, rest] = match;
+
+    // H zamiast B
+    if (base === 'B' && acc === '') base = 'H';
+    else if (base === 'B' && acc === 'b') { base = 'B'; acc = ''; }
+
+    // Krzyżyki i bemole
+    if (acc === '#') {
+      base = base + 'is';
+      acc = '';
+    } else if (acc === 'b') {
+      base = base + 'es';
+      if (base === 'Aes') base = 'As';
+      if (base === 'Ees') base = 'Es';
+      acc = '';
+    }
+
+    // Molowe pisane z małej litery
+    if (min === 'm') {
+      base = base.toLowerCase();
+    }
+
+    return base + acc + rest;
+  };
 
   useEffect(() => {
     const foundSong = songs.find(s => s.id === id);
@@ -98,8 +131,15 @@ function SongView({ songs }) {
       
       // Zmiana na HtmlDivFormatter, żeby łatwiej to układać we flexboxie
       const formatter = new ChordSheetJS.HtmlDivFormatter();
-      const html = formatter.format(parsedSong);
+      let html = formatter.format(parsedSong);
       
+      // Zastosowanie polskiej notacji na wygenerowanym HTML (tylko wewnątrz <div class="chord">...</div>)
+      if (usePolishChords) {
+        html = html.replace(/<div class="chord">(.*?)<\/div>/g, (match, chordText) => {
+          return `<div class="chord">${toPolishChord(chordText)}</div>`;
+        });
+      }
+
       return <div className="chord-sheet" dangerouslySetInnerHTML={{ __html: html }} />;
     } catch (e) {
       return <p>Błąd parsowania pliku ChordPro: {e.message}</p>;
@@ -121,8 +161,8 @@ function SongView({ songs }) {
       <main>
         {song.type === 'chordpro' && (
           <>
-            <div className="transpose-controls" style={{ flexWrap: 'wrap' }}>
-              <div style={{ display: 'flex', alignItems: 'center', gap: '8px' }}>
+            <div className="transpose-controls" style={{ flexWrap: 'wrap', flexDirection: 'column', alignItems: 'center' }}>
+              <div style={{ display: 'flex', alignItems: 'center', gap: '8px', marginBottom: '8px' }}>
                 <span style={{ marginRight: '4px' }}>Transpozycja: </span>
                 <button className="transpose-btn" onClick={() => setTransposeDelta(d => d - 1)}><Minus size={16} /></button>
                 <span style={{ fontWeight: 'bold', width: '30px', textAlign: 'center' }}>
@@ -130,6 +170,15 @@ function SongView({ songs }) {
                 </span>
                 <button className="transpose-btn" onClick={() => setTransposeDelta(d => d + 1)}><Plus size={16} /></button>
               </div>
+              <label style={{ display: 'flex', alignItems: 'center', cursor: 'pointer', fontSize: '0.9rem', color: 'var(--text-secondary)' }}>
+                <input 
+                  type="checkbox" 
+                  checked={usePolishChords} 
+                  onChange={(e) => setUsePolishChords(e.target.checked)} 
+                  style={{ marginRight: '6px' }}
+                />
+                Polska notacja akordów (H, fis, cis)
+              </label>
             </div>
             {renderChordPro()}
           </>
