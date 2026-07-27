@@ -2,7 +2,7 @@ import { useState, useEffect, useMemo } from 'react';
 import { BrowserRouter, Routes, Route, Link, useParams, useNavigate } from 'react-router-dom';
 import Fuse from 'fuse.js';
 import ChordSheetJS from 'chordsheetjs';
-import { Search, Flame, Music, FileText, ExternalLink, ArrowLeft, Plus, Minus } from 'lucide-react';
+import { Search, Flame, Music, FileText, ExternalLink, ArrowLeft, Plus, Minus, Sun, Moon, Type } from 'lucide-react';
 import './index.css';
 
 // --- Home Component (Search and List) ---
@@ -66,6 +66,7 @@ function SongView({ songs }) {
   const [song, setSong] = useState(null);
   const [chordProData, setChordProData] = useState('');
   const [transposeDelta, setTransposeDelta] = useState(0);
+  const [fontSize, setFontSize] = useState(1);
 
   useEffect(() => {
     const foundSong = songs.find(s => s.id === id);
@@ -100,7 +101,7 @@ function SongView({ songs }) {
       const formatter = new ChordSheetJS.HtmlDivFormatter();
       const html = formatter.format(parsedSong);
       
-      return <div className="chord-sheet" dangerouslySetInnerHTML={{ __html: html }} />;
+      return <div className="chord-sheet" style={{ fontSize: `${fontSize}rem` }} dangerouslySetInnerHTML={{ __html: html }} />;
     } catch (e) {
       return <p>Błąd parsowania pliku ChordPro: {e.message}</p>;
     }
@@ -121,13 +122,21 @@ function SongView({ songs }) {
       <main>
         {song.type === 'chordpro' && (
           <>
-            <div className="transpose-controls">
-              <span>Transpozycja: </span>
-              <button className="transpose-btn" onClick={() => setTransposeDelta(d => d - 1)}><Minus size={16} /></button>
-              <span style={{ fontWeight: 'bold', width: '30px', textAlign: 'center' }}>
-                {transposeDelta > 0 ? `+${transposeDelta}` : transposeDelta}
-              </span>
-              <button className="transpose-btn" onClick={() => setTransposeDelta(d => d + 1)}><Plus size={16} /></button>
+            <div className="transpose-controls" style={{ flexWrap: 'wrap' }}>
+              <div style={{ display: 'flex', alignItems: 'center', gap: '8px' }}>
+                <span style={{ marginRight: '4px' }}>Rozmiar tekstu: </span>
+                <button className="transpose-btn" style={{ display: 'flex', alignItems: 'center', gap: '4px' }} onClick={() => setFontSize(f => Math.max(0.5, f - 0.1))}><Type size={14} />-</button>
+                <button className="transpose-btn" style={{ display: 'flex', alignItems: 'center', gap: '4px' }} onClick={() => setFontSize(f => Math.min(2.5, f + 0.1))}><Type size={14} />+</button>
+              </div>
+              <div style={{ width: '1px', height: '24px', backgroundColor: '#555', margin: '0 10px' }} />
+              <div style={{ display: 'flex', alignItems: 'center', gap: '8px' }}>
+                <span style={{ marginRight: '4px' }}>Transpozycja: </span>
+                <button className="transpose-btn" onClick={() => setTransposeDelta(d => d - 1)}><Minus size={16} /></button>
+                <span style={{ fontWeight: 'bold', width: '30px', textAlign: 'center' }}>
+                  {transposeDelta > 0 ? `+${transposeDelta}` : transposeDelta}
+                </span>
+                <button className="transpose-btn" onClick={() => setTransposeDelta(d => d + 1)}><Plus size={16} /></button>
+              </div>
             </div>
             {renderChordPro()}
           </>
@@ -156,6 +165,7 @@ function SongView({ songs }) {
 // --- Main App Component ---
 function App() {
   const [songs, setSongs] = useState([]);
+  const [isDarkMode, setIsDarkMode] = useState(false); // Domyślnie jasny
 
   useEffect(() => {
     // Fetch the index.json on app load
@@ -165,8 +175,21 @@ function App() {
       .catch(err => console.error("Failed to load songs index:", err));
   }, []);
 
+  useEffect(() => {
+    if (isDarkMode) {
+      document.body.classList.add('dark-mode');
+    } else {
+      document.body.classList.remove('dark-mode');
+    }
+  }, [isDarkMode]);
+
+  const toggleTheme = () => setIsDarkMode(!isDarkMode);
+
   return (
     <BrowserRouter basename={import.meta.env.BASE_URL}>
+      <button className="theme-toggle" onClick={toggleTheme} aria-label="Przełącz motyw" title="Przełącz motyw">
+        {isDarkMode ? <Sun size={24} color="#ff9800" /> : <Moon size={24} color="#666" />}
+      </button>
       <Routes>
         <Route path="/" element={<Home songs={songs} />} />
         <Route path="/song/:id" element={<SongView songs={songs} />} />
