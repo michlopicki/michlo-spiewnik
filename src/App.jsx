@@ -73,7 +73,7 @@ function SongView({ songs }) {
       setSong(foundSong);
       if (foundSong.type === 'chordpro') {
         // Fetch the .pro file
-        fetch(`/songs/${foundSong.file}`)
+        fetch(`${import.meta.env.BASE_URL}songs/${foundSong.file}`)
           .then(res => res.text())
           .then(text => setChordProData(text))
           .catch(err => console.error("Failed to load song:", err));
@@ -134,7 +134,7 @@ function SongView({ songs }) {
 
         {song.type === 'pdf' && (
           <div className="pdf-container">
-            <iframe src={`/songs/${song.file}`} title={song.title} />
+            <iframe src={`${import.meta.env.BASE_URL}songs/${song.file}`} title={song.title} />
           </div>
         )}
 
@@ -158,14 +158,14 @@ function App() {
 
   useEffect(() => {
     // Fetch the index.json on app load
-    fetch('/songs/index.json')
+    fetch(`${import.meta.env.BASE_URL}songs/index.json`)
       .then(res => res.json())
       .then(data => setSongs(data))
       .catch(err => console.error("Failed to load songs index:", err));
   }, []);
 
   return (
-    <BrowserRouter>
+    <BrowserRouter basename={import.meta.env.BASE_URL}>
       <Routes>
         <Route path="/" element={<Home songs={songs} />} />
         <Route path="/song/:id" element={<SongView songs={songs} />} />
