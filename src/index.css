@@ -242,6 +242,12 @@ a:hover {
   padding-bottom: 40px; /* Space for scrolling */
 }
 
+/* Hide generated title and subtitle from ChordSheetJS as we show them in our own header */
+.chord-sheet .title,
+.chord-sheet .subtitle {
+  display: none;
+}
+
 /* The row that holds columns of chord+lyrics */
 .chord-sheet .row {
   display: flex;
