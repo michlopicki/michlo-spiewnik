@@ -116,13 +116,45 @@ function SongView({ songs }) {
 
   if (!song) return <div className="app-container"><p>Ładowanie lub nie znaleziono utworu...</p></div>;
 
+  // Funkcja normalizująca polskie akordy do międzynarodowych przed przetworzeniem przez parser
+  const normalizeChordPro = (text) => {
+    return text.replace(/\[(.*?)\]/g, (match, chord) => {
+      if (!chord) return match;
+      const m = chord.match(/^([CDEFGABHcdefgabh])(is|es|#|b)?(m)?(.*)$/);
+      if (!m) return match;
+      
+      let [_, root, acc, min, rest] = m;
+      let isMinor = !!min || (root === root.toLowerCase());
+      let upperRoot = root.toUpperCase();
+      
+      if (upperRoot === 'H') {
+        upperRoot = 'B';
+      } else if (upperRoot === 'B') {
+        if (acc !== '#' && acc !== 'b') {
+           upperRoot = 'Bb';
+           acc = '';
+        }
+      }
+      
+      let newAcc = acc || '';
+      if (newAcc === 'is') newAcc = '#';
+      else if (newAcc === 'es') newAcc = 'b';
+      
+      let result = upperRoot + newAcc + (isMinor ? 'm' : '') + rest;
+      if (result.startsWith('Bbb')) result = result.replace('Bbb', 'Bb');
+      
+      return `[${result}]`;
+    });
+  };
+
   // Render ChordPro
   const renderChordPro = () => {
     if (!chordProData) return <p>Ładowanie tekstu...</p>;
     
     try {
+      const normalizedData = normalizeChordPro(chordProData);
       const parser = new ChordSheetJS.ChordProParser();
-      let parsedSong = parser.parse(chordProData);
+      let parsedSong = parser.parse(normalizedData);
       
       // Transpozycja (jeśli potrzebna)
       if (transposeDelta !== 0) {
