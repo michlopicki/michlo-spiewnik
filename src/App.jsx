@@ -1,5 +1,5 @@
 import { useState, useEffect, useMemo } from 'react';
-import { BrowserRouter, Routes, Route, Link, useParams, useNavigate } from 'react-router-dom';
+import { HashRouter as Router, Routes, Route, Link, useParams, useNavigate } from 'react-router-dom';
 import Fuse from 'fuse.js';
 import ChordSheetJS from 'chordsheetjs';
 import { Search, Flame, Music, FileText, ExternalLink, ArrowLeft, Plus, Minus, Sun, Moon, Type, Image as ImageIcon } from 'lucide-react';
@@ -292,7 +292,7 @@ function App() {
   const toggleTheme = () => setIsDarkMode(!isDarkMode);
 
   return (
-    <BrowserRouter basename={import.meta.env.BASE_URL}>
+    <Router>
       <button className="theme-toggle" onClick={toggleTheme} aria-label="Przełącz motyw" title="Przełącz motyw">
         {isDarkMode ? <Sun size={24} color="#ff9800" /> : <Moon size={24} color="#666" />}
       </button>
@@ -300,7 +300,7 @@ function App() {
         <Route path="/" element={<Home songs={songs} />} />
         <Route path="/song/:id" element={<SongView songs={songs} />} />
       </Routes>
-    </BrowserRouter>
+    </Router>
   );
 }
 
