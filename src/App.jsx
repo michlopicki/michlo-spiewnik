@@ -68,6 +68,8 @@ function SongView({ songs }) {
   const [transposeDelta, setTransposeDelta] = useState(0);
   const [usePolishChords, setUsePolishChords] = useState(true);
 
+  const [zoomLevel, setZoomLevel] = useState(1);
+
   // Funkcja konwertująca akord z formatu międzynarodowego na polski (z małymi literami dla moll, H zamiast B itp.)
   const toPolishChord = (chord) => {
     if (!chord) return chord;
@@ -179,7 +181,7 @@ function SongView({ songs }) {
         });
       }
 
-      return <div className="chord-sheet" dangerouslySetInnerHTML={{ __html: html }} />;
+      return <div className="chord-sheet" style={{ zoom: zoomLevel }} dangerouslySetInnerHTML={{ __html: html }} />;
     } catch (e) {
       return <p>Błąd parsowania pliku ChordPro: {e.message}</p>;
     }
@@ -201,14 +203,26 @@ function SongView({ songs }) {
         {song.type === 'chordpro' && (
           <>
             <div className="transpose-controls" style={{ flexWrap: 'wrap', flexDirection: 'column', alignItems: 'center' }}>
-              <div style={{ display: 'flex', alignItems: 'center', gap: '8px', marginBottom: '8px' }}>
-                <span style={{ marginRight: '4px' }}>Transpozycja: </span>
-                <button className="transpose-btn" onClick={() => setTransposeDelta(d => d - 1)}><Minus size={16} /></button>
-                <span style={{ fontWeight: 'bold', width: '30px', textAlign: 'center' }}>
-                  {transposeDelta > 0 ? `+${transposeDelta}` : transposeDelta}
-                </span>
-                <button className="transpose-btn" onClick={() => setTransposeDelta(d => d + 1)}><Plus size={16} /></button>
+              <div style={{ display: 'flex', alignItems: 'center', gap: '20px', marginBottom: '8px', flexWrap: 'wrap', justifyContent: 'center' }}>
+                <div style={{ display: 'flex', alignItems: 'center', gap: '8px' }}>
+                  <span style={{ marginRight: '4px' }}>Transpozycja: </span>
+                  <button className="transpose-btn" onClick={() => setTransposeDelta(d => d - 1)}><Minus size={16} /></button>
+                  <span style={{ fontWeight: 'bold', width: '30px', textAlign: 'center' }}>
+                    {transposeDelta > 0 ? `+${transposeDelta}` : transposeDelta}
+                  </span>
+                  <button className="transpose-btn" onClick={() => setTransposeDelta(d => d + 1)}><Plus size={16} /></button>
+                </div>
+                
+                <div style={{ display: 'flex', alignItems: 'center', gap: '8px' }}>
+                  <span style={{ marginRight: '4px' }}><Type size={18} /> Zoom: </span>
+                  <button className="transpose-btn" onClick={() => setZoomLevel(z => Math.max(0.5, z - 0.1))}><Minus size={16} /></button>
+                  <span style={{ fontWeight: 'bold', width: '40px', textAlign: 'center' }}>
+                    {Math.round(zoomLevel * 100)}%
+                  </span>
+                  <button className="transpose-btn" onClick={() => setZoomLevel(z => Math.min(3, z + 0.1))}><Plus size={16} /></button>
+                </div>
               </div>
+              
               <label style={{ display: 'flex', alignItems: 'center', cursor: 'pointer', fontSize: '0.9rem', color: 'var(--text-secondary)' }}>
                 <input 
                   type="checkbox" 

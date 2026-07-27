@@ -268,7 +268,8 @@ a:hover {
 .chord-sheet .lyrics {
   color: var(--text-primary);
   font-size: 1.1rem;
-  white-space: pre;
+  white-space: pre-wrap;
+  word-break: break-word;
 }
 
 .chord-sheet .paragraph {
@@ -289,7 +290,7 @@ a:hover {
 /* Inline chords mode */
 .chord-sheet.inline-chords .row {
   margin-bottom: 0.2rem;
-  flex-wrap: nowrap;
+  flex-wrap: wrap;
 }
 
 .chord-sheet.inline-chords .column {
