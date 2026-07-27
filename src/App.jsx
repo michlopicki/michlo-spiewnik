@@ -243,6 +243,16 @@ function SongView({ songs }) {
           </div>
         )}
 
+        {song.type === 'image' && (
+          <div className="image-container" style={{ textAlign: 'center', width: '100%' }}>
+            <img 
+              src={`${import.meta.env.BASE_URL}songs/${song.file}`} 
+              alt={song.title} 
+              style={{ maxWidth: '100%', height: 'auto', borderRadius: '8px' }} 
+            />
+          </div>
+        )}
+
         {song.type === 'link' && (
           <div className="link-container">
             <ExternalLink size={48} color="var(--accent)" style={{ marginBottom: '16px' }} />

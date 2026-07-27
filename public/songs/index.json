@@ -47,5 +47,12 @@
     "artist": "Wolna Grupa Bukowina",
     "type": "chordpro",
     "file": "sielanka-o-domu.pro"
+  },
+  {
+    "id": "8",
+    "title": "Zagrajcie nam (hej w góry)",
+    "artist": "Turystyczna",
+    "type": "image",
+    "file": "zagrajcie-nam.png"
   }
 ]
