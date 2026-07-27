@@ -1,0 +1,30 @@
+[
+  {
+    "id": "1",
+    "title": "Wehikuł Czasu",
+    "artist": "Dżem",
+    "type": "chordpro",
+    "file": "wehikul-czasu.pro"
+  },
+  {
+    "id": "2",
+    "title": "Bieszczadzkie Anioły",
+    "artist": "Stare Dobre Małżeństwo",
+    "type": "chordpro",
+    "file": "bieszczadzkie-anioly.pro"
+  },
+  {
+    "id": "3",
+    "title": "Przykładowy PDF",
+    "artist": "Nieznany",
+    "type": "pdf",
+    "file": "przyklad.pdf"
+  },
+  {
+    "id": "4",
+    "title": "Zawsze tam, gdzie ty",
+    "artist": "Lady Pank",
+    "type": "link",
+    "url": "https://teksty.wywrota.pl/tekst-chwyty/lady-pank-zawsze-tam-gdzie-ty.html"
+  }
+]
