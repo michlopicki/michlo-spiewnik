@@ -1,44 +1,45 @@
 {title: Bieszczadzki Trakt}
 {artist: Turystyczna}
+{meta: layout inline}
 
 {start_of_verse}
-[G]Kiedy nadejdzie czas, [D]zwabi nas ognia [C]blask [G]
-[D]Na polanie, [C]gdzie króluje [G]zły.
-[G]Gwiezdny pył w ogniu tym [D]z oczu wy[C]ciśnie łzy [G]
-[D]Tańczą iskry z gwia[C]zdami, a [G]my...
+Kiedy nadejdzie czas zwabi nas ognia blask        [G] [D] [C] [G]
+Na polanie, gdzie króluje zły.                    [D] [C] [G]
+Gwiezdny pył w ogniu tym z oczu wyciśnie łzy      [G] [D] [C] [G]
+Tańczą iskry z gwiazdami, a my...                 [D] [C] [G]
 {end_of_verse}
 
 {start_of_chorus}
-Ref.: [C]Śpiewajmy wszy[D]scy w ten rado[G]sny czas
-[C]Śpiewajmy ra[D]zem ilu jest [Em]tu nas
-[C]Choć lata mło[D]de szybko pły[G]ną, wie[Em]my, że
-[C]Nie sta[D]rzeje[G]my się
+Ref.: Śpiewajmy wszyscy w ten radosny czas        [C] [D] [G]
+Śpiewajmy razem ilu jest tu nas                   [C] [D] [Em]
+Choć lata młode szybko płyną, wiemy, że           [C] [D] [G] [Em]
+Nie starzejemy się                                [C] [D] [G]
 {end_of_chorus}
 
 {start_of_verse}
-[G]W lesie, gdzie licho śpi, [D]ma przygoda swe [C]drzwi [G]
-[D]Chodźmy tam, gdzie na [C]ścianie lasu [G]lśnią
-[G]Oczy sów, wilcze kły, [D]rykiem powie[C]trze drży [G]
-[D]Tylko gwiazdy przy[C]jazne dziś [G]są.
+W lesie, gdzie licho śpi, ma przygoda swe drzwi
+Chodźmy tam, gdzie na ścianie lasu lśnią
+Oczy sów, wilcze kły, rykiem powietrze drży
+Tylko gwiazdy przyjazne dziś są.
 {end_of_verse}
 
 {start_of_chorus}
-Ref.: [C]Śpiewajmy wszy[D]scy w ten rado[G]sny czas
-[C]Śpiewajmy ra[D]zem ilu jest [Em]tu nas
-[C]Choć lata mło[D]de szybko pły[G]ną, wie[Em]my, że
-[C]Nie sta[D]rzeje[G]my się
+Ref.: Śpiewajmy wszyscy w ten radosny czas        [C] [D] [G]
+Śpiewajmy razem ilu jest tu nas                   [C] [D] [Em]
+Choć lata młode szybko płyną, wiemy, że           [C] [D] [G] [Em]
+Nie starzejemy się                                [C] [D] [G]
 {end_of_chorus}
 
 {start_of_verse}
-[G]Dorzuć do ognia drew, [D]w górę niech pły[C]nie śpiew [G]
-[D]Wiatr ponie[C]sie go w wilgotny [G]świat
-[G]Każdy z nas o tym wie – [D]znowu spotka[C]my się [G]
-[D]A połączy nas [C]bieszczadzki [G]trakt.
+Dorzuć do ognia drew, w górę niech płynie śpiew
+Wiatr poniesie go w wilgotny świat
+Każdy z nas o tym wie – znowu spotkamy się
+A połączy nas bieszczadzki trakt.
 {end_of_verse}
 
 {start_of_chorus}
-Ref.: [C]Śpiewajmy wszy[D]scy w ten rado[G]sny czas
-[C]Śpiewajmy ra[D]zem ilu jest [Em]tu nas
-[C]Choć lata mło[D]de szybko pły[G]ną, wie[Em]my, że
-[C]Nie sta[D]rzeje[G]my się
+Ref.: Śpiewajmy wszyscy w ten radosny czas        [C] [D] [G]
+Śpiewajmy razem ilu jest tu nas                   [C] [D] [Em]
+Choć lata młode szybko płyną, wiemy, że           [C] [D] [G] [Em]
+Nie starzejemy się                                [C] [D] [G]
 {end_of_chorus}
