@@ -33,5 +33,12 @@
     "artist": "Turystyczna",
     "type": "chordpro",
     "file": "bieszczadzki-trakt.pro"
+  },
+  {
+    "id": "6",
+    "title": "Pejzaże harasymowiczowskie",
+    "artist": "Wolna Grupa Bukowina",
+    "type": "chordpro",
+    "file": "pejzaze-harasymowiczowskie.pro"
   }
 ]
