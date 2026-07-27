@@ -161,9 +161,16 @@ function SongView({ songs }) {
         parsedSong = parsedSong.transpose(transposeDelta);
       }
       
+      // Sprawdzenie czy piosenka ma być renderowana w trybie inline (akordy obok)
+      const isInline = chordProData.includes('{meta: layout inline}');
+      
       // Zmiana na HtmlDivFormatter, żeby łatwiej to układać we flexboxie
       const formatter = new ChordSheetJS.HtmlDivFormatter();
       let html = formatter.format(parsedSong);
+      
+      if (isInline) {
+        html = html.replace('<div class="chord-sheet">', '<div class="chord-sheet inline-chords">');
+      }
       
       // Zastosowanie polskiej notacji na wygenerowanym HTML (tylko wewnątrz <div class="chord">...</div>)
       if (usePolishChords) {

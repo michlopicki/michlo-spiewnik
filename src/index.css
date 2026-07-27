@@ -286,6 +286,22 @@ a:hover {
   display: inline-block;
 }
 
+/* Inline chords mode */
+.chord-sheet.inline-chords .row {
+  margin-bottom: 0.2rem;
+  flex-wrap: nowrap;
+}
+
+.chord-sheet.inline-chords .column {
+  flex-direction: row;
+  align-items: baseline;
+}
+
+.chord-sheet.inline-chords .chord {
+  min-height: 0;
+  padding-right: 6px;
+}
+
 /* PDF/Link View */
 .pdf-container {
   width: 100%;
