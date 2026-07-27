@@ -3,37 +3,37 @@
 {subtitle: Capo II}
 
 {start_of_verse}
-[G]Kiedy stałem w przedświcie, a [D]Synaj
-[C]Prawdę głosił przez trąby wiat[Em]ru
-[G]Zasmreczyły się chmury igli[D]wiem
-[Em]Bure świerki o [C]górach wspar[D]te
-[G]I na niebie byłem ja je[D]den
-[C]Plotąc pieśni w warkocze buko[Em]we
-[G]I schodziłem na ziemię za kwe[D]stą
-[Em]Przez skrzydlącą się [C]bramę Lacko[D]wej
+[G]Kiedy stałem w [D]przedświcie, a Synaj
+[C]Prawdę głosił [Em]przez trąby wiatru
+[G]Zasmreczyły się [D]chmury igliwiem
+[Em]Bure świerki [C]o górach [D]wsparte
+[G]I na niebie [D]byłem ja jeden
+[C]Plotąc pieśni [Em]w warkocze bukowe
+[G]I schodziłem [D]na ziemię za kwestą
+[Em]Przez skrzydlącą [C]się bramę [D]Lackowej
 {end_of_verse}
 
 {start_of_chorus}
-Ref.: I był [G]Beskid i by[D]ły sło[G]wa
-Zanur[C]zone po pępki w cerkwi
-Bani[D]ach rozłożyście złotych
-Sma[C]gających się wia[D]trem do kr[G]wi
+Ref.: I był [G]Beskid i [D]były [G]słowa
+Zanurzone [C]po pępki w cerkwi
+Baniach [D]rozłożyście złotych
+Smagających [C]się wiatrem [D]do [G]krwi
 {end_of_chorus}
 
 {start_of_verse}
-[G]Moje myśli biegały koń[D]mi
-[C]Po niebieskich mokrych połoni[Em]nach
-[G]I modliłem się złożywszy dło[D]nie
-[Em]Do gór, do Madonny [C]brunatnoli[D]cej
-[G]A gdy serce kroplami tęskno[D]ty
-[C]Jęło spadać na góry si[Em]ne
-[G]Czarodziejskim kwiatem papro[D]ci
-[Em]Rozgwieździła się [C]Bukowi[D]na
+[G]Moje myśli biegały [D]końmi
+[C]Po niebieskich [Em]mokrych połoninach
+[G]I modliłem się [D]złożywszy dłonie
+[Em]Do gór, do [C]Madonny [D]brunatnolicej
+[G]A gdy serce [D]kroplami tęsknoty
+[C]Jęło spadać na [Em]góry sine
+[G]Czarodziejskim [D]kwiatem paproci
+[Em]Rozgwieździła [C]się [D]Bukowina
 {end_of_verse}
 
 {start_of_chorus}
-Ref.: I był [G]Beskid i by[D]ły sło[G]wa
-Zanur[C]zone po pępki w cerkwi
-Bani[D]ach rozłożyście złotych
-Sma[C]gających się wia[D]trem do kr[G]wi
+Ref.: I był [G]Beskid i [D]były [G]słowa
+Zanurzone [C]po pępki w cerkwi
+Baniach [D]rozłożyście złotych
+Smagających [C]się wiatrem [D]do [G]krwi
 {end_of_chorus}
