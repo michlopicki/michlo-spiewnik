@@ -66,7 +66,6 @@ function SongView({ songs }) {
   const [song, setSong] = useState(null);
   const [chordProData, setChordProData] = useState('');
   const [transposeDelta, setTransposeDelta] = useState(0);
-  const [fontSize, setFontSize] = useState(1);
 
   useEffect(() => {
     const foundSong = songs.find(s => s.id === id);
@@ -101,7 +100,7 @@ function SongView({ songs }) {
       const formatter = new ChordSheetJS.HtmlDivFormatter();
       const html = formatter.format(parsedSong);
       
-      return <div className="chord-sheet" style={{ fontSize: `${fontSize}rem` }} dangerouslySetInnerHTML={{ __html: html }} />;
+      return <div className="chord-sheet" dangerouslySetInnerHTML={{ __html: html }} />;
     } catch (e) {
       return <p>Błąd parsowania pliku ChordPro: {e.message}</p>;
     }
@@ -123,12 +122,6 @@ function SongView({ songs }) {
         {song.type === 'chordpro' && (
           <>
             <div className="transpose-controls" style={{ flexWrap: 'wrap' }}>
-              <div style={{ display: 'flex', alignItems: 'center', gap: '8px' }}>
-                <span style={{ marginRight: '4px' }}>Rozmiar tekstu: </span>
-                <button className="transpose-btn" style={{ display: 'flex', alignItems: 'center', gap: '4px' }} onClick={() => setFontSize(f => Math.max(0.5, f - 0.1))}><Type size={14} />-</button>
-                <button className="transpose-btn" style={{ display: 'flex', alignItems: 'center', gap: '4px' }} onClick={() => setFontSize(f => Math.min(2.5, f + 0.1))}><Type size={14} />+</button>
-              </div>
-              <div style={{ width: '1px', height: '24px', backgroundColor: '#555', margin: '0 10px' }} />
               <div style={{ display: 'flex', alignItems: 'center', gap: '8px' }}>
                 <span style={{ marginRight: '4px' }}>Transpozycja: </span>
                 <button className="transpose-btn" onClick={() => setTransposeDelta(d => d - 1)}><Minus size={16} /></button>
