@@ -2,7 +2,7 @@ import { useState, useEffect, useMemo } from 'react';
 import { BrowserRouter, Routes, Route, Link, useParams, useNavigate } from 'react-router-dom';
 import Fuse from 'fuse.js';
 import ChordSheetJS from 'chordsheetjs';
-import { Search, Flame, Music, FileText, ExternalLink, ArrowLeft, Plus, Minus, Sun, Moon, Type } from 'lucide-react';
+import { Search, Flame, Music, FileText, ExternalLink, ArrowLeft, Plus, Minus, Sun, Moon, Type, Image as ImageIcon } from 'lucide-react';
 import './index.css';
 
 // --- Home Component (Search and List) ---
@@ -50,6 +50,7 @@ function Home({ songs }) {
                 {song.type === 'chordpro' && <Music size={24} />}
                 {song.type === 'pdf' && <FileText size={24} />}
                 {song.type === 'link' && <ExternalLink size={24} />}
+                {song.type === 'image' && <ImageIcon size={24} />}
               </div>
             </Link>
           ))
