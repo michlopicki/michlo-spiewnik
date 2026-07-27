@@ -26,5 +26,12 @@
     "artist": "Lady Pank",
     "type": "link",
     "url": "https://teksty.wywrota.pl/tekst-chwyty/lady-pank-zawsze-tam-gdzie-ty.html"
+  },
+  {
+    "id": "5",
+    "title": "Bieszczadzki Trakt",
+    "artist": "Turystyczna",
+    "type": "chordpro",
+    "file": "bieszczadzki-trakt.pro"
   }
 ]
