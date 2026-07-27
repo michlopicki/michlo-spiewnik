@@ -209,30 +209,33 @@ a:hover {
   padding-bottom: 40px; /* Space for scrolling */
 }
 
-/* The table rendered by HtmlTableFormatter */
-.chord-sheet table {
-  border-collapse: collapse;
-  margin-bottom: 1.5em;
+/* The row that holds columns of chord+lyrics */
+.chord-sheet .row {
+  display: flex;
+  flex-wrap: wrap;
+  margin-bottom: 1.5rem;
 }
 
-.chord-sheet td {
-  padding: 0;
-  vertical-align: bottom;
-  white-space: pre;
+/* Individual column with chord and lyric */
+.chord-sheet .column {
+  display: flex;
+  flex-direction: column;
 }
 
 /* The actual chord */
 .chord-sheet .chord {
   color: var(--accent);
   font-weight: 700;
-  display: block;
   font-size: 1.1rem;
+  min-height: 1.5em; /* So empty chords don't collapse */
+  padding-right: 2px;
 }
 
 /* The lyrics */
 .chord-sheet .lyrics {
   color: var(--text-primary);
   font-size: 1.1rem;
+  white-space: pre;
 }
 
 .chord-sheet .paragraph {

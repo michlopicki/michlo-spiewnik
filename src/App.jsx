@@ -23,7 +23,7 @@ function Home({ songs }) {
   return (
     <div className="app-container">
       <header className="header">
-        <h1><Flame size={36} color="#ff9800" /> Śpiewnik Ogniskowy</h1>
+        <h1><Flame size={36} color="#ff9800" /> Śpiewnik zjazdowy | Reunion songbook</h1>
         <div className="search-container">
           <Search className="search-icon" size={20} />
           <input
@@ -96,7 +96,8 @@ function SongView({ songs }) {
         parsedSong = parsedSong.transpose(transposeDelta);
       }
       
-      const formatter = new ChordSheetJS.HtmlTableFormatter();
+      // Zmiana na HtmlDivFormatter, żeby łatwiej to układać we flexboxie
+      const formatter = new ChordSheetJS.HtmlDivFormatter();
       const html = formatter.format(parsedSong);
       
       return <div className="chord-sheet" dangerouslySetInnerHTML={{ __html: html }} />;
