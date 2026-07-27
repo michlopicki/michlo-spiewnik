@@ -15,10 +15,10 @@ function Home({ songs }) {
     threshold: 0.3, // 0 is exact, 1 is match anything
   }), [songs]);
 
-  // If there's a query, use fuse search results. Otherwise show all songs.
+  // If there's a query, use fuse search results. Otherwise show all songs sorted alphabetically.
   const results = query 
     ? fuse.search(query).map(result => result.item) 
-    : songs;
+    : [...songs].sort((a, b) => a.title.localeCompare(b.title, 'pl'));
 
   return (
     <div className="app-container">
