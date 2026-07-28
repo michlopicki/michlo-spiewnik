@@ -3,37 +3,37 @@
 {subtitle: Capo II}
 
 {start_of_verse}
-[G]Kiedy stałem w [D]przedświcie, a Synaj
-[C]Prawdę głosił [Em]przez trąby wiatru
+[G]Kiedy stałem w przed[D]świcie, a Synaj
+[C]Prawdę głosił przez [Em]trąby wiatru
 [G]Zasmreczyły się [D]chmury igliwiem
-[Em]Bure świerki [C]o górach [D]wsparte
+[Em]Bure świerki o [C]górach [D]wsparte
 [G]I na niebie [D]byłem ja jeden
-[C]Plotąc pieśni [Em]w warkocze bukowe
-[G]I schodziłem [D]na ziemię za kwestą
-[Em]Przez skrzydlącą [C]się bramę [D]Lackowej
+[C]Plotąc pieśni w war[Em]kocze bukowe
+[G]I schodziłem na [D]ziemię za kwestą
+[Em]Przez skrzydlącą się [C]bramę Lac[D]kowej
 {end_of_verse}
 
 {start_of_chorus}
-Ref.: I był [G]Beskid i [D]były [G]słowa
-Zanurzone [C]po pępki w cerkwi
-Baniach [D]rozłożyście złotych
-Smagających [C]się wiatrem [D]do [G]krwi
+Ref.:[G] I był Beskid i [D]były [G]słowa
+Zanurzone po [C]pępki w cerkwi
+[D]Baniach rozłożyście złotych
+[C]Smagających się [D]wiatrem [G]do krwi
 {end_of_chorus}
 
 {start_of_verse}
-[G]Moje myśli biegały [D]końmi
+[G]Moje myśli bie[D]gały końmi
 [C]Po niebieskich [Em]mokrych połoninach
-[G]I modliłem się [D]złożywszy dłonie
-[Em]Do gór, do [C]Madonny [D]brunatnolicej
-[G]A gdy serce [D]kroplami tęsknoty
+[G]I modliłem [D]się złożywszy dłonie
+Do [Em]gór, do Madonny bru[C]natno[D]licej
+[G]A gdy serce krop[D]lami tęsknoty
 [C]Jęło spadać na [Em]góry sine
 [G]Czarodziejskim [D]kwiatem paproci
-[Em]Rozgwieździła [C]się [D]Bukowina
+[Em]Rozgwieździła [C]się Buko[D]wina
 {end_of_verse}
 
 {start_of_chorus}
-Ref.: I był [G]Beskid i [D]były [G]słowa
-Zanurzone [C]po pępki w cerkwi
-Baniach [D]rozłożyście złotych
-Smagających [C]się wiatrem [D]do [G]krwi
+Ref.:[G] I był Beskid i [D]były [G]słowa
+Zanurzone po [C]pępki w cerkwi
+[D]Baniach rozłożyście złotych
+[C]Smagających się [D]wiatrem [G]do krwi
 {end_of_chorus}

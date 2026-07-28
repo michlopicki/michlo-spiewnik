@@ -1,6 +1,6 @@
 {title: BIESZCZADZKIE ANIOŁY}
 {artist: Stare Dobre Małżeństwo}
-{subtitle: Capo IV}
+{capo: 4}
 
 {start_of_verse}
 [a]Anioły są takie [G]ciche, zwłaszcza te w Bieszczadach
@@ -31,8 +31,10 @@ Gdy skrzydłem cię [C]dotkną [G]już jesteś ich [a]bratem
 {end_of_verse}
 
 {start_of_chorus}
-Ref.: Anioł[C]y bieszcza[G]dzkie... [a]
-...Gdy skrzy[C]dłem cię trą[G]cą już jesteś ich [a]bratem
+Ref.: Anioł[C]y bieszcza[G]dzkie, bieszczadzkie ani[a]oły
+Dużo w was [C]radości i [G]dobrej po[a]gody
+Bieszczadzkie anio[C]ły, ani[G]oły bieszcza[a]dzkie
+Gdy skrzy[C]dłem cię trą[G]cą już jesteś ich [a]bratem
 {end_of_chorus}
 
 {start_of_verse}
@@ -43,6 +45,8 @@ Ref.: Anioł[C]y bieszcza[G]dzkie... [a]
 {end_of_verse}
 
 {start_of_chorus}
-Ref.: Anioł[C]y bieszcza[G]dzkie... [a]
-...Gdy skrzy[C]dłem cię mu[G]sną już jesteś ich [a]bratem
+Ref.: Anioł[C]y bieszcza[G]dzkie, bieszczadzkie ani[a]oły
+Dużo w was [C]radości i [G]dobrej po[a]gody
+Bieszczadzkie anio[C]ły, ani[G]oły bieszcza[a]dzkie
+Gdy skrzy[C]dłem cię mu[G]sną już jesteś ich [a]bratem
 {end_of_chorus}
