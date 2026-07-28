@@ -1,6 +1,6 @@
 {title: Pejzaże harasymowiczowskie}
 {artist: Wolna Grupa Bukowina}
-{subtitle: Capo II}
+{capo: 2}
 
 {start_of_verse}
 [G]Kiedy stałem w przed[D]świcie, a Synaj

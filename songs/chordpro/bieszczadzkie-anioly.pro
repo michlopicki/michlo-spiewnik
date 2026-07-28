@@ -3,50 +3,50 @@
 {capo: 4}
 
 {start_of_verse}
-[a]Anioły są takie [G]ciche, zwłaszcza te w Bieszczadach
-[a]Gdy spotkasz takiego w górach [e]wiele z nim nie pogadasz
-[C]Najwyżej na ucho [G]ci powie gdy [C]będzie w dobrym [F]humorze
-[C]Że skrzydła nosi w [G]ple[a]caku nawet przy [e]dobrej po[a]godzie
+[Am]Anioły są takie ciche, [G]zwłaszcza te w Bieszczadach
+[Am]Gdy spotkasz takiego w górach [Em]wiele z nim nie pogadasz
+[C]Najwyżej na ucho ci [G]powie gdy [C]będzie w dobrym [F]humorze
+Że [C]skrzydła nosi w ple[G]caku [Am]nawet przy [Em]dobrej po[Am]godzie
 {end_of_verse}
 
 {start_of_verse}
-[a]Anioły są całe [G]zielone, zwłaszcza te w Bieszczadach
-[a]Łatwo w trawie się kryją [e]i w opuszczonych sadach
+[Am]Anioły są całe zielone, [G]zwłaszcza te w Bieszczadach
+[Am]Łatwo w trawie się kryją [Em]i w opuszczonych sadach
 [C]W zielone grają u[G]kradkiem, nawet [C]karty mają zie[F]lone
-[C]Zielone mają po[G]ję[a]cie, a nawet zie[e]lony kie[a]lonek
+[C]Zielone mają poję[G]cie, [Am]a nawet zie[Em]lony kie[Am]lonek
 {end_of_verse}
 
 {start_of_chorus}
-Ref.: Anioł[C]y bieszcza[G]dzkie, bieszczadzkie ani[a]oły
-Dużo w was [C]radości i [G]dobrej po[a]gody
-Bieszczadzkie anio[C]ły, ani[G]oły bieszcza[a]dzkie
-Gdy skrzydłem cię [C]dotkną [G]już jesteś ich [a]bratem
+Ref.: A[C]nioły biesz[G]czadzkie, bieszczadzkie ani[Am]oły
+Dużo w [C]was radości [G]i dobrej po[Am]gody
+Biesz[C]czadzkie a[G]nioły, anioły biesz[Am]czadzkie
+Gdy [C]skrzydłem cię dotkną [G]już jesteś ich [Am]bratem
 {end_of_chorus}
 
 {start_of_verse}
-[a]Anioły są całkiem [G]samotne, zwłaszcza te w Bieszczadach
-[a]W kapliczkach zimą drzemią [e]choć może im nie wypada
-[C]Czasem taki anioł sa[G]motny za[C]pomni dokąd ma le[F]cieć
-[C]I wtedy całe Biesz[G]cza[a]dy mają sza[e]loną u[a]ciechę
+[Am]Anioły są całkiem samotne, [G]zwłaszcza te w Bieszczadach
+[Am]W kapliczkach zimą drzemią [Em]choć może im nie wypada
+Czasem [C]taki anioł sa[G]motny za[C]pomni dokąd ma [F]lecieć
+I [C]wtedy całe Biesz[G]czady [Am]mają sza[Em]loną u[Am]ciechę
 {end_of_verse}
 
 {start_of_chorus}
-Ref.: Anioł[C]y bieszcza[G]dzkie, bieszczadzkie ani[a]oły
-Dużo w was [C]radości i [G]dobrej po[a]gody
-Bieszczadzkie anio[C]ły, ani[G]oły bieszcza[a]dzkie
-Gdy skrzy[C]dłem cię trą[G]cą już jesteś ich [a]bratem
+Ref.: A[C]nioły biesz[G]czadzkie, bieszczadzkie ani[Am]oły
+Dużo w [C]was radości [G]i dobrej po[Am]gody
+Biesz[C]czadzkie a[G]nioły, anioły biesz[Am]czadzkie
+Gdy [C]skrzydłem cię trącą [G]już jesteś ich [Am]bratem
 {end_of_chorus}
 
 {start_of_verse}
-[a]Anioły są wiecznie [G]ulotne, zwłaszcza te w Bieszczadach
-[a]Nas też czasami nosi [e]po ich anielskich śladach
+[Am]Anioły są wiecznie ulotne, [G]zwłaszcza te w Bieszczadach
+[Am]Nas też czasami nosi [Em]po ich anielskich śladach
 [C]One nam przyzwa[G]lają i [C]skrzydłem wskazują dro[F]gę
-[C]I wtedy w nas się za[G]pa[a]la wieczny biesz[e]czadzki o[a]gień
+I [C]wtedy w nas się za[G]pala [Am]wieczny [Em]bieszczadzki [Am]ogień
 {end_of_verse}
 
 {start_of_chorus}
-Ref.: Anioł[C]y bieszcza[G]dzkie, bieszczadzkie ani[a]oły
-Dużo w was [C]radości i [G]dobrej po[a]gody
-Bieszczadzkie anio[C]ły, ani[G]oły bieszcza[a]dzkie
-Gdy skrzy[C]dłem cię mu[G]sną już jesteś ich [a]bratem
+Ref.: A[C]nioły biesz[G]czadzkie, bieszczadzkie ani[Am]oły
+Dużo w [C]was radości [G]i dobrej po[Am]gody
+Biesz[C]czadzkie a[G]nioły, anioły biesz[Am]czadzkie
+Gdy [C]skrzydłem cię musną [G]już jesteś ich [Am]bratem
 {end_of_chorus}
