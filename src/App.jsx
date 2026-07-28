@@ -109,7 +109,7 @@ function SongView({ songs }) {
       setSong(foundSong);
       if (foundSong.type === 'chordpro') {
         // Fetch the .pro file
-        fetch(`${import.meta.env.BASE_URL}songs/${foundSong.file}`)
+        fetch(`${import.meta.env.BASE_URL}songs/${foundSong.type}/${foundSong.file}`)
           .then(res => res.text())
           .then(text => setChordProData(text))
           .catch(err => console.error("Failed to load song:", err));
@@ -240,14 +240,14 @@ function SongView({ songs }) {
 
         {song.type === 'pdf' && (
           <div className="pdf-container">
-            <iframe src={`${import.meta.env.BASE_URL}songs/${song.file}`} title={song.title} />
+            <iframe src={`${import.meta.env.BASE_URL}songs/${song.type}/${song.file}`} title={song.title} />
           </div>
         )}
 
         {song.type === 'image' && (
           <div className="image-container" style={{ textAlign: 'center', width: '100%' }}>
             <img 
-              src={`${import.meta.env.BASE_URL}songs/${song.file}`} 
+              src={`${import.meta.env.BASE_URL}songs/${song.type}/${song.file}`} 
               alt={song.title} 
               style={{ maxWidth: '100%', height: 'auto', borderRadius: '8px' }} 
             />
