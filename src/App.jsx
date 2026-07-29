@@ -8,22 +8,50 @@ import './index.css';
 // --- Home Component (Search and List) ---
 function Home({ songs }) {
   const [query, setQuery] = useState('');
+  const [selectedTags, setSelectedTags] = useState([]);
 
-  // Setup Fuse.js for fuzzy searching
-  const fuse = useMemo(() => new Fuse(songs, {
+  // Extract unique tags
+  const allTags = useMemo(() => {
+    const tags = new Set();
+    songs.forEach(song => {
+      if (song.tags) {
+        song.tags.forEach(tag => tags.add(tag));
+      }
+    });
+    return Array.from(tags).sort();
+  }, [songs]);
+
+  // Filter songs by tags (OR logic for multi-select)
+  const filteredSongs = useMemo(() => {
+    if (selectedTags.length === 0) return songs;
+    return songs.filter(song => 
+      selectedTags.some(tag => song.tags && song.tags.includes(tag))
+    );
+  }, [songs, selectedTags]);
+
+  // Setup Fuse.js for fuzzy searching on filtered songs
+  const fuse = useMemo(() => new Fuse(filteredSongs, {
     keys: ['title', 'artist'],
     threshold: 0.3, // 0 is exact, 1 is match anything
-  }), [songs]);
+  }), [filteredSongs]);
 
-  // If there's a query, use fuse search results. Otherwise show all songs sorted alphabetically.
+  // If there's a query, use fuse search results. Otherwise show all filtered songs sorted alphabetically.
   const results = query 
     ? fuse.search(query).map(result => result.item) 
-    : [...songs].sort((a, b) => a.title.localeCompare(b.title, 'pl'));
+    : [...filteredSongs].sort((a, b) => a.title.localeCompare(b.title, 'pl'));
+
+  const toggleTag = (tag) => {
+    setSelectedTags(prev => 
+      prev.includes(tag) 
+        ? prev.filter(t => t !== tag)
+        : [...prev, tag]
+    );
+  };
 
   return (
     <div className="app-container">
       <header className="header">
-        <h1><Flame size={36} color="#ff9800" /> Śpiewnik zjazdowy | Reunion songbook</h1>
+        <h1>Śpiewnik zjazdowy | Reunion songbook</h1>
         <div className="search-container">
           <Search className="search-icon" size={20} />
           <input
@@ -34,6 +62,26 @@ function Home({ songs }) {
             onChange={(e) => setQuery(e.target.value)}
           />
         </div>
+        
+        {allTags.length > 0 && (
+          <div className="tags-container">
+            <button 
+              className={`tag-pill ${selectedTags.length === 0 ? 'active' : ''}`}
+              onClick={() => setSelectedTags([])}
+            >
+              Wszystkie
+            </button>
+            {allTags.map(tag => (
+              <button 
+                key={tag}
+                className={`tag-pill ${selectedTags.includes(tag) ? 'active' : ''}`}
+                onClick={() => toggleTag(tag)}
+              >
+                {tag}
+              </button>
+            ))}
+          </div>
+        )}
       </header>
 
       <main className="song-list">

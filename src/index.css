@@ -124,6 +124,45 @@ a:hover {
   color: var(--text-secondary);
 }
 
+.tags-container {
+  display: flex;
+  gap: 8px;
+  overflow-x: auto;
+  padding: 15px 0 5px 0;
+  scrollbar-width: none; /* Firefox */
+  -ms-overflow-style: none; /* IE/Edge */
+}
+
+.tags-container::-webkit-scrollbar {
+  display: none; /* Chrome/Safari */
+}
+
+.tag-pill {
+  background-color: var(--bg-card);
+  color: var(--text-secondary);
+  border: 1px solid #333;
+  padding: 6px 14px;
+  border-radius: 20px;
+  font-size: 0.9rem;
+  font-weight: 500;
+  cursor: pointer;
+  white-space: nowrap;
+  transition: all 0.2s ease;
+  user-select: none;
+}
+
+.tag-pill:hover {
+  border-color: var(--accent);
+  color: var(--text-primary);
+}
+
+.tag-pill.active {
+  background-color: var(--accent);
+  color: var(--bg-main);
+  border-color: var(--accent);
+  font-weight: 600;
+}
+
 /* Song List */
 .song-list {
   display: flex;
