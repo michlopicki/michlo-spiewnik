@@ -1,5 +1,8 @@
 {title: BIESZCZADZKIE ANIOŁY}
 {artist: Stare Dobre Małżeństwo}
+{tag: polskie}
+{tag: poezja śpiewana}
+{tag: turystyczne}
 {capo: 4}
 
 {start_of_verse}

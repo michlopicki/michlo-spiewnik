@@ -1,5 +1,8 @@
 {title: Pejzaże harasymowiczowskie}
 {artist: Wolna Grupa Bukowina}
+{tag: polskie}
+{tag: poezja śpiewana}
+{tag: turystyczne}
 {capo: 2}
 
 {start_of_verse}
