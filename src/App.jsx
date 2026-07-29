@@ -305,9 +305,9 @@ function SongView({ songs }) {
         {song.type === 'link' && (
           <div className="link-container">
             <ExternalLink size={48} color="var(--accent)" style={{ marginBottom: '16px' }} />
-            <p>Ten utwór znajduje się na innej stronie (np. Wywrota.pl).</p>
+            <p>This song is available on an external website.</p>
             <a href={song.url} target="_blank" rel="noopener noreferrer" className="btn-primary">
-              Przejdź do opracowania
+              View chords
             </a>
           </div>
         )}
