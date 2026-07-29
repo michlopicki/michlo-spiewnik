@@ -1094,12 +1094,12 @@
     "id": "97",
     "title": "Cyniczne córy Zurychu",
     "artist": "Artur Andrus",
-    "type": "link",
-    "url": "https://tabs.ultimate-guitar.com/tab/5953361",
+    "type": "chordpro",
     "tags": [
       "polskie",
       "pop"
-    ]
+    ],
+    "file": "5953361.pro"
   },
   {
     "id": "98",
@@ -1139,13 +1139,13 @@
     "id": "101",
     "title": "Mrs. Robinson",
     "artist": "Simon & Garfunkel",
-    "type": "link",
-    "url": "https://tabs.ultimate-guitar.com/tab/simon-garfunkel/mrs-robinson-chords-83959",
+    "type": "chordpro",
     "tags": [
       "english",
       "folk",
       "rock"
-    ]
+    ],
+    "file": "mrs-robinson-chords-83959.pro"
   },
   {
     "id": "102",
@@ -1616,23 +1616,23 @@
     "id": "143",
     "title": "Riptide",
     "artist": "Vance Joy",
-    "type": "link",
-    "url": "https://tabs.ultimate-guitar.com/tab/vance-joy/riptide-chords-1237247",
+    "type": "chordpro",
     "tags": [
       "english",
       "pop"
-    ]
+    ],
+    "file": "riptide-chords-1237247.pro"
   },
   {
     "id": "144",
     "title": "Hotel California",
     "artist": "Eagles",
-    "type": "link",
-    "url": "https://tabs.ultimate-guitar.com/tab/eagles/hotel-california-chords-46190",
+    "type": "chordpro",
     "tags": [
       "english",
       "rock"
-    ]
+    ],
+    "file": "hotel-california-chords-46190.pro"
   },
   {
     "id": "145",
@@ -1650,13 +1650,13 @@
     "id": "146",
     "title": "Stand By Me",
     "artist": "Ben E. King",
-    "type": "link",
-    "url": "https://tabs.ultimate-guitar.com/tab/ben-e-king/stand-by-me-chords-1724608",
+    "type": "chordpro",
     "tags": [
       "english",
       "pop",
       "rock"
-    ]
+    ],
+    "file": "stand-by-me-chords-1724608.pro"
   },
   {
     "id": "147",
