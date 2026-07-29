@@ -4,17 +4,6 @@
 {tag: folk}
 {tag: rock}
 
-MRS. ROBINSON (Simon &amp; Garfunkel)
-
-CAPO 2nd Fret
-PLAY G
-KEY  A
-
-G/B     x-2-0-0-0-3
-C/B     x-2-x-0-1-0
-Am7/G   3-x-2-0-1-0
-
-
 {c: Intro}
 [E]
 

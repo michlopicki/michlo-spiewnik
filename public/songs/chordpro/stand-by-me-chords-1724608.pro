@@ -4,10 +4,6 @@
 {tag: pop}
 {tag: rock}
 
-Ben E. King
-Stand By Me
-BPM: 120
-Capo: II
 
 {c: Intro}
 [G]        [G]        [Em]        [Em]

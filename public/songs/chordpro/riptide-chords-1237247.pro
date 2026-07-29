@@ -39,21 +39,13 @@ To the [Am]dark side, [G]I wanna be your [C]left hand man
 I [Am]love you [G]when you're singing that [C]song, and I got a lump
 In my [Am]throat, 'cause [G]you're gonna sing the words[C] wrong
 
-{c: Interlude}
-e|-[C]------3---------|
-B|-3h5-5-------5---|
-G|-----------5-----|
-D|-----------------| x4
-A|-----------------|
-E|-----------------|
-
 {c: Bridge}
 [Am]I just wanna, I just wanna [G]know
 [C]If you're gonna, if you're gonna st[Fmaj7]ay
 [Am]I just gotta, I just gotta know[G]
 [C]I can't have it, I can't have it [Fmaj7]any other way
 
-[Pre-chorus] (strum once and hold)
+{c: Pre-chorus}
 I [Am]swear she's [G]destined for the [C]screen
 [Am]Closest thing to [G]Michelle Pfeiffer [C]that you've ever seen, oh
 

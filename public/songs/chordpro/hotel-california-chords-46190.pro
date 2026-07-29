@@ -3,8 +3,6 @@
 {tag: english}
 {tag: rock}
 
-Tabbed by: Emrldeyzs
-Capo 2
 
 {c: Intro}
 [Am]     [E7]     [G]    [D]    [F]    [C]    [Dm]     [E7]
