@@ -1,5 +1,7 @@
 {title: WEHIKUŁ CZASU}
 {artist: Dżem}
+{tag: polskie}
+{tag: rock}
 {meta: layout inline}
 
 {start_of_verse}

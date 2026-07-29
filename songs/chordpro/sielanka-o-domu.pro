@@ -1,5 +1,8 @@
 {title: Sielanka o domu}
 {artist: Wolna Grupa Bukowina}
+{tag: polskie}
+{tag: poezja śpiewana}
+{tag: turystyczne}
 {meta: TODO}
 
 {start_of_verse}

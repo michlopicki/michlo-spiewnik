@@ -4,1105 +4,1793 @@
     "title": "Wehikuł Czasu",
     "artist": "Dżem",
     "type": "chordpro",
-    "file": "wehikul-czasu.pro"
+    "file": "wehikul-czasu.pro",
+    "tags": [
+      "polskie",
+      "rock"
+    ]
   },
   {
     "id": "2",
     "title": "Bieszczadzkie Anioły",
     "artist": "Stare Dobre Małżeństwo",
     "type": "chordpro",
-    "file": "bieszczadzkie-anioly.pro"
+    "file": "bieszczadzkie-anioly.pro",
+    "tags": [
+      "polskie",
+      "poezja śpiewana",
+      "turystyczne"
+    ]
   },
   {
     "id": "3",
     "title": "Bitwa",
     "artist": "Mechanicy Shanty",
     "type": "image",
-    "file": "bitwa.png"
+    "file": "bitwa.png",
+    "tags": [
+      "polskie",
+      "szanty"
+    ]
   },
   {
     "id": "4",
     "title": "Zawsze tam, gdzie ty",
     "artist": "Lady Pank",
     "type": "link",
-    "url": "https://spiewnik.wywrota.pl/lady-pank/zawsze-tam-gdzie-ty"
+    "url": "https://spiewnik.wywrota.pl/lady-pank/zawsze-tam-gdzie-ty",
+    "tags": [
+      "polskie",
+      "rock"
+    ]
   },
   {
     "id": "5",
     "title": "Bieszczadzki Trakt",
     "artist": "Turystyczna",
     "type": "chordpro",
-    "file": "bieszczadzki-trakt.pro"
+    "file": "bieszczadzki-trakt.pro",
+    "tags": [
+      "polskie",
+      "turystyczne"
+    ]
   },
   {
     "id": "6",
     "title": "Pejzaże harasymowiczowskie",
     "artist": "Wolna Grupa Bukowina",
     "type": "chordpro",
-    "file": "pejzaze-harasymowiczowskie.pro"
+    "file": "pejzaze-harasymowiczowskie.pro",
+    "tags": [
+      "polskie",
+      "poezja śpiewana",
+      "turystyczne"
+    ]
   },
   {
     "id": "7",
     "title": "Sielanka o domu",
     "artist": "Wolna Grupa Bukowina",
     "type": "chordpro",
-    "file": "sielanka-o-domu.pro"
+    "file": "sielanka-o-domu.pro",
+    "tags": [
+      "polskie",
+      "poezja śpiewana",
+      "turystyczne"
+    ]
   },
   {
     "id": "8",
     "title": "Zagrajcie nam (hej w góry)",
     "artist": "Turystyczna",
     "type": "image",
-    "file": "zagrajcie-nam.png"
+    "file": "zagrajcie-nam.png",
+    "tags": [
+      "polskie",
+      "turystyczne"
+    ]
   },
   {
     "id": "9",
     "title": "Gdzie ta keja",
     "artist": "J. Porębski",
     "type": "image",
-    "file": "gdzie-ta-keja.png"
+    "file": "gdzie-ta-keja.png",
+    "tags": [
+      "polskie",
+      "szanty"
+    ]
   },
   {
     "id": "10",
     "title": "Hiszpańskie dziewczyny",
     "artist": "A. Mendygrał, G. Wasilewski",
     "type": "image",
-    "file": "hiszpanskie-dziewczyny.png"
+    "file": "hiszpanskie-dziewczyny.png",
+    "tags": [
+      "polskie",
+      "szanty"
+    ]
   },
   {
     "id": "11",
     "title": "Pożegnanie Liverpoolu",
     "artist": "Cztery Refy",
     "type": "image",
-    "file": "pozegnanie-liverpoolu.png"
+    "file": "pozegnanie-liverpoolu.png",
+    "tags": [
+      "polskie",
+      "szanty"
+    ]
   },
   {
     "id": "12",
     "title": "Przechyły",
     "artist": "P. Orkisz",
     "type": "image",
-    "file": "przechyly.png"
+    "file": "przechyly.png",
+    "tags": [
+      "polskie",
+      "turystyczne",
+      "szanty"
+    ]
   },
   {
     "id": "13",
     "title": "Śmiały harpunnik",
     "artist": "M. Siurawski",
     "type": "image",
-    "file": "smialy-harpunnik.png"
+    "file": "smialy-harpunnik.png",
+    "tags": [
+      "polskie",
+      "szanty"
+    ]
   },
   {
     "id": "14",
     "title": "Chłopcy z Botany Bay",
     "artist": "K. Mikiciuk, K. Lebionko",
     "type": "image",
-    "file": "chlopcy-z-botany-bay.png"
+    "file": "chlopcy-z-botany-bay.png",
+    "tags": [
+      "polskie",
+      "szanty"
+    ]
   },
   {
     "id": "15",
     "title": "Połów",
     "artist": "Szanty",
     "type": "image",
-    "file": "polow.png"
+    "file": "polow.png",
+    "tags": [
+      "polskie",
+      "szanty"
+    ]
   },
   {
     "id": "16",
     "title": "Jasnowłosa",
     "artist": "Szanty",
     "type": "image",
-    "file": "jasnowlosa.png"
+    "file": "jasnowlosa.png",
+    "tags": [
+      "polskie",
+      "szanty"
+    ]
   },
   {
     "id": "17",
     "title": "Żegluj",
     "artist": "Szanty",
     "type": "image",
-    "file": "zegluj.png"
+    "file": "zegluj.png",
+    "tags": [
+      "polskie",
+      "szanty"
+    ]
   },
   {
     "id": "18",
     "title": "Złoty smok",
     "artist": "Szanty",
     "type": "image",
-    "file": "zloty-smok.png"
+    "file": "zloty-smok.png",
+    "tags": [
+      "polskie",
+      "szanty"
+    ]
   },
   {
     "id": "19",
     "title": "Morze Bałtyckie",
     "artist": "Szanty",
     "type": "image",
-    "file": "morze-baltyckie.png"
+    "file": "morze-baltyckie.png",
+    "tags": [
+      "polskie",
+      "szanty"
+    ]
   },
   {
     "id": "20",
     "title": "Pod jodłą",
     "artist": "Harcerska",
     "type": "image",
-    "file": "pod-jodla.png"
+    "file": "pod-jodla.png",
+    "tags": [
+      "polskie",
+      "harcerskie",
+      "turystyczne"
+    ]
   },
   {
     "id": "21",
     "title": "Płyńmy w dół do starej Maui",
     "artist": "H. Czekała",
     "type": "image",
-    "file": "plynmy-w-dol-do-starej-maui.png"
+    "file": "plynmy-w-dol-do-starej-maui.png",
+    "tags": [
+      "polskie",
+      "szanty"
+    ]
   },
   {
     "id": "22",
     "title": "Northwest Passage",
     "artist": "Szanty",
     "type": "image",
-    "file": "northwest-passage.png"
+    "file": "northwest-passage.png",
+    "tags": [
+      "polskie",
+      "szanty"
+    ]
   },
   {
     "id": "23",
     "title": "24 lutego",
     "artist": "Szanty",
     "type": "image",
-    "file": "24-lutego.png"
+    "file": "24-lutego.png",
+    "tags": [
+      "polskie",
+      "szanty"
+    ]
   },
   {
     "id": "24",
     "title": "Pożegnalny ton",
     "artist": "Atlantyda",
     "type": "image",
-    "file": "pozegnalny-ton.png"
+    "file": "pozegnalny-ton.png",
+    "tags": [
+      "polskie",
+      "szanty"
+    ]
   },
   {
     "id": "25",
     "title": "Piła Tango",
     "artist": "Strachy na Lachy",
     "type": "image",
-    "file": "pila-tango.png"
+    "file": "pila-tango.png",
+    "tags": [
+      "polskie",
+      "rock"
+    ]
   },
   {
     "id": "26",
     "title": "Wielorybnicy Grenlandzcy",
     "artist": "Ryczące Dwudziestki",
     "type": "image",
-    "file": "wielorybnicy-grenlandzcy.png"
+    "file": "wielorybnicy-grenlandzcy.png",
+    "tags": [
+      "polskie",
+      "szanty"
+    ]
   },
   {
     "id": "27",
     "title": "Heave Away Santiana",
     "artist": "Mechanicy Shanty",
     "type": "image",
-    "file": "heave-away-santiana.png"
+    "file": "heave-away-santiana.png",
+    "tags": [
+      "polskie",
+      "szanty"
+    ]
   },
   {
     "id": "28",
     "title": "Opadły mgły wstaje nowy dzień",
     "artist": "Stare Dobre Małżeństwo",
     "type": "image",
-    "file": "opadly-mgly-wstaje-nowy-dzien.png"
+    "file": "opadly-mgly-wstaje-nowy-dzien.png",
+    "tags": [
+      "polskie",
+      "poezja śpiewana",
+      "turystyczne"
+    ]
   },
   {
     "id": "29",
     "title": "Z nim będziesz szczęśliwsza",
     "artist": "Stare Dobre Małżeństwo",
     "type": "image",
-    "file": "z-nim-bedziesz-szczesliwsza.png"
+    "file": "z-nim-bedziesz-szczesliwsza.png",
+    "tags": [
+      "polskie",
+      "poezja śpiewana",
+      "turystyczne"
+    ]
   },
   {
     "id": "30",
     "title": "Piosenka dla wojtka Bellona",
     "artist": "Stare Dobre Małżeństwo",
     "type": "image",
-    "file": "piosenka-dla-wojtka-bellona.png"
+    "file": "piosenka-dla-wojtka-bellona.png",
+    "tags": [
+      "polskie",
+      "poezja śpiewana",
+      "turystyczne"
+    ]
   },
   {
     "id": "31",
     "title": "Pod kątem ostrym",
     "artist": "Stare Dobre Małżeństwo",
     "type": "image",
-    "file": "pod-katem-ostrym.png"
+    "file": "pod-katem-ostrym.png",
+    "tags": [
+      "polskie",
+      "poezja śpiewana",
+      "turystyczne"
+    ]
   },
   {
     "id": "32",
     "title": "Jak",
     "artist": "Stare Dobre Małżeństwo",
     "type": "image",
-    "file": "jak.png"
+    "file": "jak.png",
+    "tags": [
+      "polskie",
+      "poezja śpiewana",
+      "turystyczne"
+    ]
   },
   {
     "id": "33",
     "title": "Czarny blues o czwartej nad ranem",
     "artist": "Stare Dobre Małżeństwo",
     "type": "image",
-    "file": "czarny-blues-o-czwartej-nad-ranem-spiewamy-bluesa-bo-czwarta-nad-ranem-ae.png"
+    "file": "czarny-blues-o-czwartej-nad-ranem-spiewamy-bluesa-bo-czwarta-nad-ranem-ae.png",
+    "tags": [
+      "polskie",
+      "poezja śpiewana",
+      "turystyczne"
+    ]
   },
   {
     "id": "34",
     "title": "Majka",
     "artist": "Stare Dobre Małżeństwo",
     "type": "image",
-    "file": "majka.png"
+    "file": "majka.png",
+    "tags": [
+      "polskie",
+      "poezja śpiewana",
+      "turystyczne"
+    ]
   },
   {
     "id": "35",
     "title": "Kim właściwie była ta piękna pani",
     "artist": "Stare Dobre Małżeństwo",
     "type": "image",
-    "file": "kim-wlasciwie-byla-ta-piekna-pani.png"
+    "file": "kim-wlasciwie-byla-ta-piekna-pani.png",
+    "tags": [
+      "polskie",
+      "poezja śpiewana",
+      "turystyczne"
+    ]
   },
   {
     "id": "36",
     "title": "Makatka z aniołem",
     "artist": "Stare Dobre Małżeństwo",
     "type": "image",
-    "file": "makatka-z-aniolem.png"
+    "file": "makatka-z-aniolem.png",
+    "tags": [
+      "polskie",
+      "poezja śpiewana",
+      "turystyczne"
+    ]
   },
   {
     "id": "37",
     "title": "Nie rozdziobią nas kruki",
     "artist": "Stare Dobre Małżeństwo",
     "type": "image",
-    "file": "nie-rozdziobia-nas-kruki.png"
+    "file": "nie-rozdziobia-nas-kruki.png",
+    "tags": [
+      "polskie",
+      "poezja śpiewana",
+      "turystyczne"
+    ]
   },
   {
     "id": "38",
     "title": "Bez słów",
     "artist": "Wolna Grupa Bukowina",
     "type": "image",
-    "file": "bez-slow.png"
+    "file": "bez-slow.png",
+    "tags": [
+      "polskie",
+      "poezja śpiewana",
+      "turystyczne"
+    ]
   },
   {
     "id": "39",
     "title": "Piosenka wiosenna",
     "artist": "Wolna Grupa Bukowina",
     "type": "image",
-    "file": "piosenka-wiosenna.png"
+    "file": "piosenka-wiosenna.png",
+    "tags": [
+      "polskie",
+      "poezja śpiewana",
+      "turystyczne"
+    ]
   },
   {
     "id": "40",
     "title": "Znów wędrujemy",
     "artist": "słowa: K. K. Baczyński, muz: Grzegorz Turnau",
     "type": "image",
-    "file": "znow-wedrujemy.png"
+    "file": "znow-wedrujemy.png",
+    "tags": [
+      "polskie",
+      "poezja śpiewana"
+    ]
   },
   {
     "id": "41",
     "title": "Majster bieda",
     "artist": "Wolna Grupa Bukowina",
     "type": "image",
-    "file": "majster-bieda-nikt-nie-pytal-skad-sie-wzial-dg.png"
+    "file": "majster-bieda-nikt-nie-pytal-skad-sie-wzial-dg.png",
+    "tags": [
+      "polskie",
+      "poezja śpiewana",
+      "turystyczne"
+    ]
   },
   {
     "id": "42",
     "title": "Mury",
     "artist": "Jacek Kaczmarski",
     "type": "image",
-    "file": "mury.png"
+    "file": "mury.png",
+    "tags": [
+      "polskie",
+      "poezja śpiewana"
+    ]
   },
   {
     "id": "43",
     "title": "Kantyczka z lotu ptaka",
     "artist": "Jacek Kaczmarski",
     "type": "image",
-    "file": "kantyczka-z-lotu-ptaka-i-nie-pyta-po-co-za-co-g.png"
+    "file": "kantyczka-z-lotu-ptaka-i-nie-pyta-po-co-za-co-g.png",
+    "tags": [
+      "polskie",
+      "poezja śpiewana"
+    ]
   },
   {
     "id": "44",
     "title": "Lekcja historii klasycznej",
     "artist": "Jacek Kaczmarski",
     "type": "image",
-    "file": "lekcja-historii-klasycznej.png"
+    "file": "lekcja-historii-klasycznej.png",
+    "tags": [
+      "polskie",
+      "poezja śpiewana"
+    ]
   },
   {
     "id": "45",
     "title": "Let it be",
     "artist": "The Beatles",
     "type": "image",
-    "file": "let-it-be-there-will-be-an-answer-let-it-be-cgfedc.png"
+    "file": "let-it-be-there-will-be-an-answer-let-it-be-cgfedc.png",
+    "tags": [
+      "english",
+      "rock",
+      "pop"
+    ]
   },
   {
     "id": "46",
     "title": "Zbroja",
     "artist": "Jacek Kaczmarski",
     "type": "image",
-    "file": "zbroja.png"
+    "file": "zbroja.png",
+    "tags": [
+      "polskie",
+      "poezja śpiewana"
+    ]
   },
   {
     "id": "47",
     "title": "Kara Barabasza",
     "artist": "Jacek Kaczmarski",
     "type": "image",
-    "file": "kara-barabasza-ryknal-barabasz-smiechem-wreszcie-ab.png"
+    "file": "kara-barabasza-ryknal-barabasz-smiechem-wreszcie-ab.png",
+    "tags": [
+      "polskie",
+      "poezja śpiewana"
+    ]
   },
   {
     "id": "48",
     "title": "A my nie chcemy",
     "artist": "Przemysław Gintrowski",
     "type": "image",
-    "file": "a-my-nie-chcemy.png"
+    "file": "a-my-nie-chcemy.png",
+    "tags": [
+      "polskie",
+      "poezja śpiewana"
+    ]
   },
   {
     "id": "49",
     "title": "Nasza klasa",
     "artist": "Jacek Kaczmarski",
     "type": "image",
-    "file": "nasza-klasa.png"
+    "file": "nasza-klasa.png",
+    "tags": [
+      "polskie",
+      "poezja śpiewana"
+    ]
   },
   {
     "id": "50",
     "title": "Nim wstanie dzień",
     "artist": "Edmund Fetting",
     "type": "image",
-    "file": "nim-wstanie-dzien.png"
+    "file": "nim-wstanie-dzien.png",
+    "tags": [
+      "polskie",
+      "poezja śpiewana",
+      "filmowe"
+    ]
   },
   {
     "id": "51",
     "title": "Ballada o krzyżowcu",
     "artist": "Harcerska",
     "type": "image",
-    "file": "ballada-o-krzyzowcu.png"
+    "file": "ballada-o-krzyzowcu.png",
+    "tags": [
+      "polskie",
+      "harcerskie",
+      "turystyczne"
+    ]
   },
   {
     "id": "52",
     "title": "Krajka",
     "artist": "Harcerska",
     "type": "image",
-    "file": "krajka.png"
+    "file": "krajka.png",
+    "tags": [
+      "polskie",
+      "harcerskie",
+      "turystyczne"
+    ]
   },
   {
     "id": "53",
     "title": "Niebo do wynajęcia",
     "artist": "Robert Kasprzycki",
     "type": "image",
-    "file": "niebo-do-wynajecia.png"
+    "file": "niebo-do-wynajecia.png",
+    "tags": [
+      "polskie",
+      "poezja śpiewana"
+    ]
   },
   {
     "id": "54",
     "title": "Zapiszę śniegiem w kominie",
     "artist": "R. Kasprzycki",
     "type": "image",
-    "file": "zapisze-sniegiem-w-kominie.png"
+    "file": "zapisze-sniegiem-w-kominie.png",
+    "tags": [
+      "polskie",
+      "poezja śpiewana"
+    ]
   },
   {
     "id": "55",
     "title": "Wędrowiec",
     "artist": "A. Szarek",
     "type": "image",
-    "file": "wedrowiec.png"
+    "file": "wedrowiec.png",
+    "tags": [
+      "polskie",
+      "turystyczne"
+    ]
   },
   {
     "id": "56",
     "title": "Paszczak",
     "artist": "Nieznany",
     "type": "image",
-    "file": "paszczak.png"
+    "file": "paszczak.png",
+    "tags": [
+      "polskie",
+      "turystyczne"
+    ]
   },
   {
     "id": "57",
     "title": "Moja litania",
     "artist": "słowa i muzyka: Leszek Wojtowicz, Piwnica Pod Baranami",
     "type": "image",
-    "file": "moja-litania.png"
+    "file": "moja-litania.png",
+    "tags": [
+      "polskie",
+      "poezja śpiewana"
+    ]
   },
   {
     "id": "58",
     "title": "Hej przyjaciele",
     "artist": "P. Kasperczyk, P. Kasperczyk",
     "type": "image",
-    "file": "hej-przyjaciele.png"
+    "file": "hej-przyjaciele.png",
+    "tags": [
+      "polskie",
+      "turystyczne"
+    ]
   },
   {
     "id": "59",
     "title": "Wieczór",
     "artist": "Nieznany",
     "type": "image",
-    "file": "wieczor.png"
+    "file": "wieczor.png",
+    "tags": [
+      "polskie",
+      "turystyczne"
+    ]
   },
   {
     "id": "60",
     "title": "Wspomnienie bumeranga",
     "artist": "Harcerska",
     "type": "image",
-    "file": "wspomnienie-bumeranga.png"
+    "file": "wspomnienie-bumeranga.png",
+    "tags": [
+      "polskie",
+      "harcerskie",
+      "turystyczne"
+    ]
   },
   {
     "id": "61",
     "title": "Shenandoah",
     "artist": "A. Mendrygał, Shenandoah",
     "type": "image",
-    "file": "shenandoah.png"
+    "file": "shenandoah.png",
+    "tags": [
+      "polskie",
+      "szanty"
+    ]
   },
   {
     "id": "62",
     "title": "Lewe lewe Loff",
     "artist": "Kult",
     "type": "image",
-    "file": "lewe-lewe-loff.png"
+    "file": "lewe-lewe-loff.png",
+    "tags": [
+      "polskie",
+      "rock"
+    ]
   },
   {
     "id": "63",
     "title": "Kiler",
     "artist": "Elektryczne gitary",
     "type": "image",
-    "file": "kiler.png"
+    "file": "kiler.png",
+    "tags": [
+      "polskie",
+      "rock",
+      "filmowe"
+    ]
   },
   {
     "id": "64",
     "title": "Lubię mówić z tobą",
     "artist": "Akurat",
     "type": "image",
-    "file": "lubie-mowic-z-toba.png"
+    "file": "lubie-mowic-z-toba.png",
+    "tags": [
+      "polskie",
+      "rock"
+    ]
   },
   {
     "id": "65",
     "title": "Diabeł i anioł",
     "artist": "Nieznany",
     "type": "image",
-    "file": "diabel-i-aniol.png"
+    "file": "diabel-i-aniol.png",
+    "tags": [
+      "polskie",
+      "turystyczne"
+    ]
   },
   {
     "id": "66",
     "title": "Hej Sokoły (Ukraina)",
     "artist": "Tradycyjna",
     "type": "image",
-    "file": "ukraina-hej-sokoly.png"
+    "file": "ukraina-hej-sokoly.png",
+    "tags": [
+      "polskie",
+      "folk"
+    ]
   },
   {
     "id": "67",
     "title": "Van Gogh",
     "artist": "M. Zadura",
     "type": "image",
-    "file": "van-gogh.png"
+    "file": "van-gogh.png",
+    "tags": [
+      "polskie",
+      "turystyczne",
+      "poezja śpiewana"
+    ]
   },
   {
     "id": "68",
     "title": "Idę dołem a ty górą",
     "artist": "Wojtek Warchoł",
     "type": "image",
-    "file": "ide-dolem-a-ty-gora-nad-wodospadem-lemata.png"
+    "file": "ide-dolem-a-ty-gora-nad-wodospadem-lemata.png",
+    "tags": [
+      "polskie",
+      "turystyczne"
+    ]
   },
   {
     "id": "69",
     "title": "Whisky",
     "artist": "Dżem",
     "type": "image",
-    "file": "whisky.png"
+    "file": "whisky.png",
+    "tags": [
+      "polskie",
+      "rock"
+    ]
   },
   {
     "id": "70",
     "title": "Ale to już było",
     "artist": "Maryla Rodowicz",
     "type": "image",
-    "file": "ale-to-juz-bylo.png"
+    "file": "ale-to-juz-bylo.png",
+    "tags": [
+      "polskie",
+      "pop"
+    ]
   },
   {
     "id": "71",
     "title": "Ostatnia nocka",
     "artist": "Maciej Maleńczuk",
     "type": "image",
-    "file": "ostatnia-nocka.png"
+    "file": "ostatnia-nocka.png",
+    "tags": [
+      "polskie",
+      "pop",
+      "rock"
+    ]
   },
   {
     "id": "72",
     "title": "Dni których nie znamy",
     "artist": "Marek Grechuta",
     "type": "image",
-    "file": "dni-ktorych-nie-znamy.png"
+    "file": "dni-ktorych-nie-znamy.png",
+    "tags": [
+      "polskie",
+      "poezja śpiewana"
+    ]
   },
   {
     "id": "73",
     "title": "Mamy tylko siebie",
     "artist": "Strachy na Lachy",
     "type": "image",
-    "file": "mamy-tylko-siebie-ja-to-w-sobie-zapominam-czasem.png"
+    "file": "mamy-tylko-siebie-ja-to-w-sobie-zapominam-czasem.png",
+    "tags": [
+      "polskie",
+      "rock"
+    ]
   },
   {
     "id": "74",
     "title": "Czarny chleb i czarna kawa",
     "artist": "Strachy na Lachy",
     "type": "image",
-    "file": "czarny-chleb-i-czarna-kawa.png"
+    "file": "czarny-chleb-i-czarna-kawa.png",
+    "tags": [
+      "polskie",
+      "rock"
+    ]
   },
   {
     "id": "75",
     "title": "900 mil",
     "artist": "Bayer Full",
     "type": "image",
-    "file": "900-mil.png"
+    "file": "900-mil.png",
+    "tags": [
+      "polskie",
+      "folk"
+    ]
   },
   {
     "id": "76",
     "title": "Czerwony pas",
     "artist": "J. Korzeniowski",
     "type": "image",
-    "file": "czerwony-pas.png"
+    "file": "czerwony-pas.png",
+    "tags": [
+      "polskie",
+      "folk",
+      "turystyczne"
+    ]
   },
   {
     "id": "77",
     "title": "Kołysanka dla misiaków",
     "artist": "Martyna Jakubowicz",
     "type": "image",
-    "file": "kolysanka-dla-misiakow.png"
+    "file": "kolysanka-dla-misiakow.png",
+    "tags": [
+      "polskie",
+      "rock",
+      "pop"
+    ]
   },
   {
     "id": "78",
     "title": "Nie płacz Ewka",
     "artist": "Perfect",
     "type": "image",
-    "file": "nie-placz-ewka.png"
+    "file": "nie-placz-ewka.png",
+    "tags": [
+      "polskie",
+      "rock"
+    ]
   },
   {
     "id": "79",
     "title": "Odpowie ci wiatr",
     "artist": "Bob Dylan / Maryla Rodowicz",
     "type": "image",
-    "file": "odpowie-ci-wiatr.png"
+    "file": "odpowie-ci-wiatr.png",
+    "tags": [
+      "polskie",
+      "pop",
+      "rock"
+    ]
   },
   {
     "id": "80",
     "title": "Jak linoskoczek",
     "artist": "Nieznany",
     "type": "image",
-    "file": "jak-linoskoczek.png"
+    "file": "jak-linoskoczek.png",
+    "tags": [
+      "polskie",
+      "turystyczne"
+    ]
   },
   {
     "id": "81",
     "title": "Oranżada",
     "artist": "Koniec świata",
     "type": "image",
-    "file": "oranzada.png"
+    "file": "oranzada.png",
+    "tags": [
+      "polskie",
+      "rock"
+    ]
   },
   {
     "id": "82",
     "title": "Nie bój się nic nie robić",
     "artist": "Piwnica Pod Baranami",
     "type": "image",
-    "file": "nie-boj-sie-nic-nie-robic.png"
+    "file": "nie-boj-sie-nic-nie-robic.png",
+    "tags": [
+      "polskie",
+      "poezja śpiewana"
+    ]
   },
   {
     "id": "83",
     "title": "Arahja",
     "artist": "Kult",
     "type": "image",
-    "file": "arahja.png"
+    "file": "arahja.png",
+    "tags": [
+      "polskie",
+      "rock"
+    ]
   },
   {
     "id": "84",
     "title": "Kiedy będę starą kobietą",
     "artist": "Martyna Jakubowicz",
     "type": "image",
-    "file": "kiedy-bede-stara-kobieta.png"
+    "file": "kiedy-bede-stara-kobieta.png",
+    "tags": [
+      "polskie",
+      "rock",
+      "pop"
+    ]
   },
   {
     "id": "85",
     "title": "Jak gdyby nigdy nic nie było",
     "artist": "Voo Voo",
     "type": "image",
-    "file": "jak-gdyby-nigdy-nic-nie-bylo.png"
+    "file": "jak-gdyby-nigdy-nic-nie-bylo.png",
+    "tags": [
+      "polskie",
+      "rock"
+    ]
   },
   {
     "id": "86",
     "title": "Dlaczego Pan Tadeusz",
     "artist": "Jacek Kowalski",
     "type": "image",
-    "file": "dlaczego-pan-tadeusz.png"
+    "file": "dlaczego-pan-tadeusz.png",
+    "tags": [
+      "polskie",
+      "poezja śpiewana"
+    ]
   },
   {
     "id": "87",
     "title": "Jak dobrze nam",
     "artist": "Harcerska",
     "type": "image",
-    "file": "jak-dobrze-nam.png"
+    "file": "jak-dobrze-nam.png",
+    "tags": [
+      "polskie",
+      "harcerskie",
+      "turystyczne"
+    ]
   },
   {
     "id": "88",
     "title": "Hallelujah (Polski)",
     "artist": "Leonard Cohen",
     "type": "image",
-    "file": "hallelujah.png"
+    "file": "hallelujah.png",
+    "tags": [
+      "english",
+      "poezja śpiewana"
+    ]
   },
   {
     "id": "89",
     "title": "Dym jałowca",
     "artist": "Harcerska",
     "type": "image",
-    "file": "dym-jalowca.png"
+    "file": "dym-jalowca.png",
+    "tags": [
+      "polskie",
+      "harcerskie",
+      "turystyczne"
+    ]
   },
   {
     "id": "90",
     "title": "Jaki był ten dzień",
     "artist": "Turbo",
     "type": "image",
-    "file": "jaki-byl-ten-dzien-pozno-juz.png"
+    "file": "jaki-byl-ten-dzien-pozno-juz.png",
+    "tags": [
+      "polskie",
+      "rock"
+    ]
   },
   {
     "id": "91",
     "title": "Zegarmistrz światła",
     "artist": "Tadeusz Woźniak",
     "type": "image",
-    "file": "zegarmistrz-swiatla.png"
+    "file": "zegarmistrz-swiatla.png",
+    "tags": [
+      "polskie",
+      "poezja śpiewana",
+      "rock"
+    ]
   },
   {
     "id": "92",
     "title": "Szewczyk",
     "artist": "Piwnica pod Baranami",
     "type": "image",
-    "file": "szewczyk.png"
+    "file": "szewczyk.png",
+    "tags": [
+      "polskie",
+      "poezja śpiewana"
+    ]
   },
   {
     "id": "93",
     "title": "Hallelujah (English)",
     "artist": "Leonard Cohen",
     "type": "image",
-    "file": "hallelujah-1.png"
+    "file": "hallelujah-1.png",
+    "tags": [
+      "english",
+      "poezja śpiewana"
+    ]
   },
   {
     "id": "94",
     "title": "Blowin' in the wind",
     "artist": "Bob Dylan",
     "type": "image",
-    "file": "blowin-in-the-wind.png"
+    "file": "blowin-in-the-wind.png",
+    "tags": [
+      "english",
+      "rock",
+      "folk"
+    ]
   },
   {
     "id": "95",
     "title": "Połoniny niebieskie",
     "artist": "Andrzej Drąg",
     "type": "image",
-    "file": "poloniny-niebieskie.png"
+    "file": "poloniny-niebieskie.png",
+    "tags": [
+      "polskie",
+      "poezja śpiewana",
+      "turystyczne"
+    ]
   },
   {
     "id": "96",
     "title": "Green horn",
     "artist": "Mechanicy Shanty",
     "type": "image",
-    "file": "green-horn.png"
+    "file": "green-horn.png",
+    "tags": [
+      "polskie",
+      "szanty"
+    ]
   },
   {
     "id": "97",
     "title": "Cyniczne córy Zurychu",
     "artist": "Artur Andrus",
     "type": "link",
-    "url": "https://tabs.ultimate-guitar.com/tab/5953361"
+    "url": "https://tabs.ultimate-guitar.com/tab/5953361",
+    "tags": [
+      "polskie",
+      "pop"
+    ]
   },
   {
     "id": "98",
     "title": "I see fire",
     "artist": "Ed Sheeran",
     "type": "link",
-    "url": "https://spiewnik.wywrota.pl/ed-sheeran/i-see-fire"
+    "url": "https://spiewnik.wywrota.pl/ed-sheeran/i-see-fire",
+    "tags": [
+      "english",
+      "pop"
+    ]
   },
   {
     "id": "99",
     "title": "Jolka, Jolka",
     "artist": "Budka Suflera",
     "type": "link",
-    "url": "https://spiewnik.wywrota.pl/budka-suflera/jolka-jolka-pamietasz"
+    "url": "https://spiewnik.wywrota.pl/budka-suflera/jolka-jolka-pamietasz",
+    "tags": [
+      "polskie",
+      "rock"
+    ]
   },
   {
     "id": "100",
     "title": "Kto powie mi jak",
     "artist": "Kwiat Jabłoni",
     "type": "link",
-    "url": "https://spiewnik.wywrota.pl/budka-suflera/jolka-jolka-pamietasz"
+    "url": "https://spiewnik.wywrota.pl/budka-suflera/jolka-jolka-pamietasz",
+    "tags": [
+      "polskie",
+      "pop",
+      "folk"
+    ]
   },
   {
     "id": "101",
     "title": "Mrs. Robinson",
     "artist": "Simon & Garfunkel",
     "type": "link",
-    "url": "https://tabs.ultimate-guitar.com/tab/simon-garfunkel/mrs-robinson-chords-83959"
+    "url": "https://tabs.ultimate-guitar.com/tab/simon-garfunkel/mrs-robinson-chords-83959",
+    "tags": [
+      "english",
+      "folk",
+      "rock"
+    ]
   },
   {
     "id": "102",
     "title": "Autobusy i tramwaje",
     "artist": "T.Love",
     "type": "image",
-    "file": "autobusy-i-tramwaje.png"
+    "file": "autobusy-i-tramwaje.png",
+    "tags": [
+      "polskie",
+      "rock"
+    ]
   },
   {
     "id": "103",
     "title": "Baranek",
     "artist": "Kult, Stanisław Staszewski, Adam Mickiewicz",
     "type": "image",
-    "file": "baranek.png"
+    "file": "baranek.png",
+    "tags": [
+      "polskie",
+      "rock"
+    ]
   },
   {
     "id": "104",
     "title": "Buka",
     "artist": "Kwiat Jabłoni",
     "type": "image",
-    "file": "buka.png"
+    "file": "buka.png",
+    "tags": [
+      "polskie",
+      "pop",
+      "folk"
+    ]
   },
   {
     "id": "105",
     "title": "Can't help falling in love",
     "artist": "Elvis Presley",
     "type": "image",
-    "file": "cant-help-falling-in-love.png"
+    "file": "cant-help-falling-in-love.png",
+    "tags": [
+      "english",
+      "pop"
+    ]
   },
   {
     "id": "106",
     "title": "Ciągle pada",
     "artist": "Czerwone Gitary",
     "type": "image",
-    "file": "ciagle-pada.png"
+    "file": "ciagle-pada.png",
+    "tags": [
+      "polskie",
+      "rock",
+      "pop"
+    ]
   },
   {
     "id": "107",
     "title": "Chryzantemy złociste",
     "artist": "Nieznany",
     "type": "image",
-    "file": "chryzantemy-zlociste.png"
+    "file": "chryzantemy-zlociste.png",
+    "tags": [
+      "polskie",
+      "rock"
+    ]
   },
   {
     "id": "108",
     "title": "Czerwone korale",
     "artist": "Brathanki",
     "type": "image",
-    "file": "czerwone-korale.png"
+    "file": "czerwone-korale.png",
+    "tags": [
+      "polskie",
+      "folk",
+      "pop"
+    ]
   },
   {
     "id": "109",
     "title": "Długość dźwięku samotności",
     "artist": "Myslovitz",
     "type": "image",
-    "file": "dlugosc-dzwieku-samotnosci.png"
+    "file": "dlugosc-dzwieku-samotnosci.png",
+    "tags": [
+      "polskie",
+      "rock"
+    ]
   },
   {
     "id": "110",
     "title": "Dziś późno pójdę spać",
     "artist": "Kwiat Jabłoni",
     "type": "image",
-    "file": "dzis-pozno-pojde-spac.png"
+    "file": "dzis-pozno-pojde-spac.png",
+    "tags": [
+      "polskie",
+      "pop",
+      "folk"
+    ]
   },
   {
     "id": "111",
     "title": "House of the Rising Sun",
     "artist": "The Animals",
     "type": "image",
-    "file": "house-of-the-rising-sun.png"
+    "file": "house-of-the-rising-sun.png",
+    "tags": [
+      "english",
+      "rock"
+    ]
   },
   {
     "id": "112",
     "title": "Jolka jolka",
     "artist": "Budka Suflera",
     "type": "image",
-    "file": "jolka-jolka.png"
+    "file": "jolka-jolka.png",
+    "tags": [
+      "polskie",
+      "rock"
+    ]
   },
   {
     "id": "113",
     "title": "King",
     "artist": "T.Love",
     "type": "image",
-    "file": "king.png"
+    "file": "king.png",
+    "tags": [
+      "polskie",
+      "rock"
+    ]
   },
   {
     "id": "114",
     "title": "Knocking on heaven's door",
     "artist": "Bob Dylan",
     "type": "image",
-    "file": "knocking-on-heavens-door.png"
+    "file": "knocking-on-heavens-door.png",
+    "tags": [
+      "english",
+      "rock"
+    ]
   },
   {
     "id": "115",
     "title": "Kocham cię jak Irlandię",
     "artist": "Kobranocka",
     "type": "image",
-    "file": "kocham-cie-jak-irlandie-przed-szczesciem-zywic-obawe-ee-as.png"
+    "file": "kocham-cie-jak-irlandie-przed-szczesciem-zywic-obawe-ee-as.png",
+    "tags": [
+      "polskie",
+      "rock"
+    ]
   },
   {
     "id": "116",
     "title": "Małgośka",
     "artist": "Maryla Rodowicz",
     "type": "image",
-    "file": "malgoska.png"
+    "file": "malgoska.png",
+    "tags": [
+      "polskie",
+      "pop"
+    ]
   },
   {
     "id": "117",
     "title": "My cyganie",
     "artist": "Tradycyjna",
     "type": "image",
-    "file": "my-cyganie.png"
+    "file": "my-cyganie.png",
+    "tags": [
+      "polskie",
+      "folk"
+    ]
   },
   {
     "id": "118",
     "title": "Na jednej z dzikich plaż",
     "artist": "Rotary",
     "type": "image",
-    "file": "na-jednej-z-dzikich-plaz.png"
+    "file": "na-jednej-z-dzikich-plaz.png",
+    "tags": [
+      "polskie",
+      "rock",
+      "pop"
+    ]
   },
   {
     "id": "119",
     "title": "Nazywali go marynarz",
     "artist": "Artur Andrus",
     "type": "image",
-    "file": "nazywali-go-marynarz.png"
+    "file": "nazywali-go-marynarz.png",
+    "tags": [
+      "polskie",
+      "pop"
+    ]
   },
   {
     "id": "120",
     "title": "Nie ma nie ma ciebie",
     "artist": "Kayah",
     "type": "image",
-    "file": "nie-ma-nie-ma-ciebie-hej-bog-sie-rodzi-f.png"
+    "file": "nie-ma-nie-ma-ciebie-hej-bog-sie-rodzi-f.png",
+    "tags": [
+      "polskie",
+      "pop",
+      "kolędy"
+    ]
   },
   {
     "id": "121",
     "title": "Niemożliwe",
     "artist": "Kwiat Jabłoni",
     "type": "image",
-    "file": "niemozliwe.png"
+    "file": "niemozliwe.png",
+    "tags": [
+      "polskie",
+      "pop",
+      "folk"
+    ]
   },
   {
     "id": "122",
     "title": "One more cup of coffee",
     "artist": "Bob Dylan",
     "type": "image",
-    "file": "one-more-cup-of-coffee.png"
+    "file": "one-more-cup-of-coffee.png",
+    "tags": [
+      "english",
+      "rock"
+    ]
   },
   {
     "id": "123",
     "title": "Peggy brown",
     "artist": "Myslovitz",
     "type": "image",
-    "file": "peggy-brown.png"
+    "file": "peggy-brown.png",
+    "tags": [
+      "polskie",
+      "rock"
+    ]
   },
   {
     "id": "124",
     "title": "Piłem w spale spałem w pile",
     "artist": "Artur Andrus",
     "type": "image",
-    "file": "pilem-w-spale-spalem-w-pile.png"
+    "file": "pilem-w-spale-spalem-w-pile.png",
+    "tags": [
+      "polskie",
+      "pop"
+    ]
   },
   {
     "id": "125",
     "title": "Radioactive",
     "artist": "Imagine Dragons",
     "type": "image",
-    "file": "radioactive.png"
+    "file": "radioactive.png",
+    "tags": [
+      "english",
+      "pop",
+      "rock"
+    ]
   },
   {
     "id": "126",
     "title": "Sen Katarzyny II",
     "artist": "Jacek Kaczmarski",
     "type": "image",
-    "file": "sen-katarzyny-il.png"
+    "file": "sen-katarzyny-il.png",
+    "tags": [
+      "polskie",
+      "poezja śpiewana"
+    ]
   },
   {
     "id": "127",
     "title": "Someone like you",
     "artist": "Adele",
     "type": "image",
-    "file": "someone-like-you.png"
+    "file": "someone-like-you.png",
+    "tags": [
+      "english",
+      "pop"
+    ]
   },
   {
     "id": "128",
     "title": "Szary świat",
     "artist": "Kwiat Jabłoni",
     "type": "image",
-    "file": "szary-swiat.png"
+    "file": "szary-swiat.png",
+    "tags": [
+      "polskie",
+      "pop",
+      "folk"
+    ]
   },
   {
     "id": "129",
     "title": "Take me home country roads",
     "artist": "John Denver",
     "type": "image",
-    "file": "take-me-home-country-roads.png"
+    "file": "take-me-home-country-roads.png",
+    "tags": [
+      "english",
+      "folk",
+      "pop"
+    ]
   },
   {
     "id": "130",
     "title": "Takie Tango",
     "artist": "Budka Suflera",
     "type": "image",
-    "file": "takie-tango.png"
+    "file": "takie-tango.png",
+    "tags": [
+      "polskie",
+      "rock"
+    ]
   },
   {
     "id": "131",
     "title": "The Sound of Silence",
     "artist": "Simon & Garfunkel",
     "type": "image",
-    "file": "the-sound-of-silence.png"
+    "file": "the-sound-of-silence.png",
+    "tags": [
+      "english",
+      "folk",
+      "rock"
+    ]
   },
   {
     "id": "132",
     "title": "Tyle słońca w całym mieście",
     "artist": "Anna Jantar",
     "type": "image",
-    "file": "tyle-slonca-w-calym-miescie.png"
+    "file": "tyle-slonca-w-calym-miescie.png",
+    "tags": [
+      "polskie",
+      "pop"
+    ]
   },
   {
     "id": "133",
     "title": "W moim ogródecku",
     "artist": "Tradycyjna",
     "type": "image",
-    "file": "w-moim-ogrodecku.png"
+    "file": "w-moim-ogrodecku.png",
+    "tags": [
+      "polskie",
+      "folk"
+    ]
   },
   {
     "id": "134",
     "title": "Warszawa",
     "artist": "T.Love",
     "type": "image",
-    "file": "warszawa.png"
+    "file": "warszawa.png",
+    "tags": [
+      "polskie",
+      "rock"
+    ]
   },
   {
     "id": "135",
     "title": "Wind of change",
     "artist": "Scorpions",
     "type": "image",
-    "file": "wind-of-change.png"
+    "file": "wind-of-change.png",
+    "tags": [
+      "english",
+      "rock"
+    ]
   },
   {
     "id": "136",
     "title": "Wish you were here",
     "artist": "Pink Floyd",
     "type": "image",
-    "file": "wish-you-were-here.png"
+    "file": "wish-you-were-here.png",
+    "tags": [
+      "english",
+      "rock"
+    ]
   },
   {
     "id": "137",
     "title": "Wodymidaj",
     "artist": "Kwiat Jabłoni",
     "type": "image",
-    "file": "wodymidaj.png"
+    "file": "wodymidaj.png",
+    "tags": [
+      "polskie",
+      "pop",
+      "folk"
+    ]
   },
   {
     "id": "138",
     "title": "Zacznij od Bacha",
     "artist": "Zbigniew Wodecki",
     "type": "image",
-    "file": "ii-i-slow-tyle-znasz-uczonych-cicho-przez-noc-c7fas.png"
+    "file": "ii-i-slow-tyle-znasz-uczonych-cicho-przez-noc-c7fas.png",
+    "tags": [
+      "polskie",
+      "pop"
+    ]
   },
   {
     "id": "139",
     "title": "Zanim pójdę",
     "artist": "Happysad",
     "type": "image",
-    "file": "zanim-pojde.png"
+    "file": "zanim-pojde.png",
+    "tags": [
+      "polskie",
+      "rock"
+    ]
   },
   {
     "id": "140",
     "title": "Zrobię mężczyzn z was",
     "artist": "Mulan",
     "type": "image",
-    "file": "zrobie-mezczyzn-z-was.png"
+    "file": "zrobie-mezczyzn-z-was.png",
+    "tags": [
+      "polskie",
+      "filmowe",
+      "pop"
+    ]
   },
   {
     "id": "141",
     "title": "Morskie opowieści",
     "artist": "Szanty",
     "type": "image",
-    "file": "morskie-opowiesci.png"
+    "file": "morskie-opowiesci.png",
+    "tags": [
+      "polskie",
+      "szanty"
+    ]
   },
   {
     "id": "142",
     "title": "Yesterday",
     "artist": "The Beatles",
     "type": "image",
-    "file": "yesterday.png"
+    "file": "yesterday.png",
+    "tags": [
+      "english",
+      "rock",
+      "pop"
+    ]
   },
   {
     "id": "143",
     "title": "Riptide",
     "artist": "Vance Joy",
     "type": "link",
-    "url": "https://tabs.ultimate-guitar.com/tab/vance-joy/riptide-chords-1237247"
+    "url": "https://tabs.ultimate-guitar.com/tab/vance-joy/riptide-chords-1237247",
+    "tags": [
+      "english",
+      "pop"
+    ]
   },
   {
     "id": "144",
     "title": "Hotel California",
     "artist": "Eagles",
     "type": "link",
-    "url": "https://tabs.ultimate-guitar.com/tab/eagles/hotel-california-chords-46190"
+    "url": "https://tabs.ultimate-guitar.com/tab/eagles/hotel-california-chords-46190",
+    "tags": [
+      "english",
+      "rock"
+    ]
   },
   {
     "id": "145",
     "title": "Długość dźwięku samotności",
     "artist": "Artur Rojek",
     "type": "link",
-    "url": "https://spiewnik.wywrota.pl/artur-rojek/dlugosc-dzwieku-samotnosci"
+    "url": "https://spiewnik.wywrota.pl/artur-rojek/dlugosc-dzwieku-samotnosci",
+    "tags": [
+      "polskie",
+      "pop",
+      "rock"
+    ]
   },
   {
     "id": "146",
     "title": "Stand By Me",
     "artist": "Ben E. King",
     "type": "link",
-    "url": "https://tabs.ultimate-guitar.com/tab/ben-e-king/stand-by-me-chords-1724608"
+    "url": "https://tabs.ultimate-guitar.com/tab/ben-e-king/stand-by-me-chords-1724608",
+    "tags": [
+      "english",
+      "pop",
+      "rock"
+    ]
   },
   {
     "id": "147",
     "title": "Zombie",
     "artist": "The Cranberries",
     "type": "link",
-    "url": "https://tabs.ultimate-guitar.com/tab/the-cranberries/zombie-chords-844902"
+    "url": "https://tabs.ultimate-guitar.com/tab/the-cranberries/zombie-chords-844902",
+    "tags": [
+      "english",
+      "rock"
+    ]
   },
   {
     "id": "148",
     "title": "Wake Me Up",
     "artist": "Avicii",
     "type": "link",
-    "url": "https://spiewnik.wywrota.pl/avicii/avicii-wake-me-up"
+    "url": "https://spiewnik.wywrota.pl/avicii/avicii-wake-me-up",
+    "tags": [
+      "english",
+      "pop"
+    ]
   },
   {
     "id": "149",
     "title": "Ring of Fire",
     "artist": "Johnny Cash",
     "type": "link",
-    "url": "https://tabs.ultimate-guitar.com/tab/johnny-cash/ring-of-fire-chords-63352"
+    "url": "https://tabs.ultimate-guitar.com/tab/johnny-cash/ring-of-fire-chords-63352",
+    "tags": [
+      "english",
+      "folk",
+      "rock"
+    ]
   },
   {
     "id": "150",
     "title": "Californication",
     "artist": "Red Hot Chili Peppers",
     "type": "link",
-    "url": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/californication-chords-202765"
+    "url": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/californication-chords-202765",
+    "tags": [
+      "english",
+      "rock"
+    ]
   },
   {
     "id": "151",
     "title": "Perfect",
     "artist": "Ed Sheeran",
     "type": "link",
-    "url": "https://tabs.ultimate-guitar.com/tab/ed-sheeran/perfect-chords-1956589"
+    "url": "https://tabs.ultimate-guitar.com/tab/ed-sheeran/perfect-chords-1956589",
+    "tags": [
+      "english",
+      "pop"
+    ]
   },
   {
     "id": "152",
     "title": "Wonderwall",
     "artist": "Oasis",
     "type": "link",
-    "url": "https://tabs.ultimate-guitar.com/tab/oasis/wonderwall-chords-6125"
+    "url": "https://tabs.ultimate-guitar.com/tab/oasis/wonderwall-chords-6125",
+    "tags": [
+      "english",
+      "rock"
+    ]
   },
   {
     "id": "153",
     "title": "Counting Stars",
     "artist": "OneRepublic",
     "type": "link",
-    "url": "https://tabs.ultimate-guitar.com/tab/onerepublic/counting-stars-chords-1233464"
+    "url": "https://tabs.ultimate-guitar.com/tab/onerepublic/counting-stars-chords-1233464",
+    "tags": [
+      "english",
+      "pop"
+    ]
   },
   {
     "id": "154",
     "title": "Wellerman",
     "artist": "The Longest Johns",
     "type": "link",
-    "url": "https://tabs.ultimate-guitar.com/tab/the-longest-johns/wellerman-chords-3182162"
+    "url": "https://tabs.ultimate-guitar.com/tab/the-longest-johns/wellerman-chords-3182162",
+    "tags": [
+      "english",
+      "szanty",
+      "folk"
+    ]
   },
   {
     "id": "155",
     "title": "Whiskey in the Jar",
     "artist": "Metallica",
     "type": "link",
-    "url": "https://tabs.ultimate-guitar.com/tab/metallica/whiskey-in-the-jar-chords-1148352"
+    "url": "https://tabs.ultimate-guitar.com/tab/metallica/whiskey-in-the-jar-chords-1148352",
+    "tags": [
+      "english",
+      "rock"
+    ]
   },
   {
     "id": "156",
     "title": "Hey Jude",
     "artist": "The Beatles",
     "type": "link",
-    "url": "https://tabs.ultimate-guitar.com/tab/the-beatles/hey-jude-chords-17275"
+    "url": "https://tabs.ultimate-guitar.com/tab/the-beatles/hey-jude-chords-17275",
+    "tags": [
+      "english",
+      "rock",
+      "pop"
+    ]
   },
   {
     "id": "157",
     "title": "I'm Yours",
     "artist": "Jason Mraz",
     "type": "link",
-    "url": "https://tabs.ultimate-guitar.com/tab/jason-mraz/im-yours-chords-468625"
+    "url": "https://tabs.ultimate-guitar.com/tab/jason-mraz/im-yours-chords-468625",
+    "tags": [
+      "english",
+      "pop"
+    ]
   },
   {
     "id": "158",
     "title": "Somewhere Over the Rainbow",
     "artist": "Jason Castro",
     "type": "link",
-    "url": "https://tabs.ultimate-guitar.com/tab/jason-castro/somewhere-over-the-rainbow-chords-846578"
+    "url": "https://tabs.ultimate-guitar.com/tab/jason-castro/somewhere-over-the-rainbow-chords-846578",
+    "tags": [
+      "english",
+      "pop"
+    ]
   }
 ]

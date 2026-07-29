@@ -1,5 +1,7 @@
 {title: Bieszczadzki Trakt}
 {artist: Turystyczna}
+{tag: polskie}
+{tag: turystyczne}
 {meta: layout inline}
 
 {start_of_verse}
