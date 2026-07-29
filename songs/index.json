@@ -1797,23 +1797,23 @@
     "id": "159",
     "title": "Freedom",
     "artist": "Anthony Hamilton & Elayna Boynton",
-    "type": "link",
-    "url": "https://tabs.ultimate-guitar.com/tab/misc-soundtrack/django-unchained-freedom-chords-1211763",
+    "type": "chordpro",
     "tags": [
       "english",
       "filmowe"
-    ]
+    ],
+    "file": "freedom.pro"
   },
   {
     "id": "160",
     "title": "Layla",
     "artist": "Eric Clapton",
-    "type": "link",
-    "url": "https://tabs.ultimate-guitar.com/tab/eric-clapton/layla-chords-971970",
+    "type": "chordpro",
     "tags": [
       "english",
       "rock"
-    ]
+    ],
+    "file": "layla.pro"
   },
   {
     "id": "161",
@@ -1842,12 +1842,12 @@
     "id": "163",
     "title": "Imagine",
     "artist": "John Lennon",
-    "type": "link",
-    "url": "https://tabs.ultimate-guitar.com/tab/john-lennon/imagine-chords-9306",
+    "type": "chordpro",
     "tags": [
       "english",
       "pop",
       "rock"
-    ]
+    ],
+    "file": "imagine.pro"
   }
 ]
