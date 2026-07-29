@@ -716,7 +716,7 @@
   {
     "id": "103",
     "title": "Baranek",
-    "artist": "Stanisław Staszewski, Adam Mickiewicz",
+    "artist": "Kult, Stanisław Staszewski, Adam Mickiewicz",
     "type": "image",
     "file": "baranek.png"
   },
@@ -1090,5 +1090,19 @@
     "artist": "The Beatles",
     "type": "link",
     "url": "https://tabs.ultimate-guitar.com/tab/the-beatles/hey-jude-chords-17275"
+  },
+  {
+    "id": "157",
+    "title": "I'm Yours",
+    "artist": "Jason Mraz",
+    "type": "link",
+    "url": "https://tabs.ultimate-guitar.com/tab/jason-mraz/im-yours-chords-468625"
+  },
+  {
+    "id": "158",
+    "title": "Somewhere Over the Rainbow",
+    "artist": "Jason Castro",
+    "type": "link",
+    "url": "https://tabs.ultimate-guitar.com/tab/jason-castro/somewhere-over-the-rainbow-chords-846578"
   }
 ]
