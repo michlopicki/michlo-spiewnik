@@ -1792,5 +1792,62 @@
       "english",
       "pop"
     ]
+  },
+  {
+    "id": "159",
+    "title": "Freedom",
+    "artist": "Anthony Hamilton & Elayna Boynton",
+    "type": "link",
+    "url": "https://tabs.ultimate-guitar.com/tab/misc-soundtrack/django-unchained-freedom-chords-1211763",
+    "tags": [
+      "english",
+      "filmowe"
+    ]
+  },
+  {
+    "id": "160",
+    "title": "Layla",
+    "artist": "Eric Clapton",
+    "type": "link",
+    "url": "https://tabs.ultimate-guitar.com/tab/eric-clapton/layla-chords-971970",
+    "tags": [
+      "english",
+      "rock"
+    ]
+  },
+  {
+    "id": "161",
+    "title": "Wish You Were Here",
+    "artist": "Pink Floyd",
+    "type": "link",
+    "url": "https://tabs.ultimate-guitar.com/tab/pink-floyd/wish-you-were-here-chords-44555",
+    "tags": [
+      "english",
+      "rock"
+    ]
+  },
+  {
+    "id": "162",
+    "title": "Let Her Go",
+    "artist": "Passenger",
+    "type": "link",
+    "url": "https://tabs.ultimate-guitar.com/tab/passenger/let-her-go-chords-1137467",
+    "tags": [
+      "english",
+      "pop",
+      "folk"
+    ]
+  },
+  {
+    "id": "163",
+    "title": "Imagine",
+    "artist": "John Lennon",
+    "type": "link",
+    "url": "https://tabs.ultimate-guitar.com/tab/john-lennon/imagine-chords-9306",
+    "tags": [
+      "english",
+      "pop",
+      "rock"
+    ]
   }
 ]
