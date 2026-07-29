@@ -3,16 +3,6 @@
 {tag: english}
 {tag: filmowe}
 
-Anthony Hamilton &ndash; Freedom Lyrics (Feat. Elayna Boynton)
-
-e|-[C#m]-4--|   |--[A]0--|   |--[E]0--|   |-[G#m]-4--|   |-[F#m]-2--|
-B|--5--|   |--2--|   |--0--|   |--4--|   |--2--|
-G|--6--|   |--2--|   |--1--|   |--4--|   |--2--|
-D|--6--|   |--2--|   |--2--|   |--6--|   |--4--|
-A|--4--|   |--0--|   |--2--|   |--6--|   |--4--|
-E|-----|   |-----|   |-----|   |-----|   |-----|
-
-
 {c: Verse}
 
 [C#m]Felt like the weight of the world was on my [A]shoulders
