@@ -115,7 +115,7 @@ function SongView({ songs }) {
   const [song, setSong] = useState(null);
   const [chordProData, setChordProData] = useState('');
   const [transposeDelta, setTransposeDelta] = useState(0);
-  const [usePolishChords, setUsePolishChords] = useState(true);
+  const [usePolishChords, setUsePolishChords] = useState(false);
 
   const [zoomLevel, setZoomLevel] = useState(1);
 
