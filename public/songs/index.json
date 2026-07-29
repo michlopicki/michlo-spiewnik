@@ -429,7 +429,7 @@
   {
     "id": "62",
     "title": "Lewe lewe Loff",
-    "artist": "Kuli",
+    "artist": "Kult",
     "type": "image",
     "file": "lewe-lewe-loff.png"
   },
@@ -456,7 +456,7 @@
   },
   {
     "id": "66",
-    "title": "Ukraina (Hej Sokoły)",
+    "title": "Hej Sokoły (Ukraina)",
     "artist": "Tradycyjna",
     "type": "image",
     "file": "ukraina-hej-sokoly.png"
@@ -499,7 +499,7 @@
   {
     "id": "72",
     "title": "Dni których nie znamy",
-    "artist": "Marek Grachuta",
+    "artist": "Marek Grechuta",
     "type": "image",
     "file": "dni-ktorych-nie-znamy.png"
   },
@@ -610,7 +610,7 @@
   },
   {
     "id": "88",
-    "title": "Hallelujah",
+    "title": "Hallelujah (Polski)",
     "artist": "Leonard Cohen",
     "type": "image",
     "file": "hallelujah.png"
@@ -645,7 +645,7 @@
   },
   {
     "id": "93",
-    "title": "Hallelujah",
+    "title": "Hallelujah (English)",
     "artist": "Leonard Cohen",
     "type": "image",
     "file": "hallelujah-1.png"
@@ -670,5 +670,327 @@
     "artist": "Mechanicy Shanty",
     "type": "image",
     "file": "green-horn.png"
+  },
+  {
+    "id": "97",
+    "title": "Cyniczne córy Zurychu",
+    "artist": "Artur Andrus",
+    "type": "link",
+    "url": "https://tabs.ultimate-guitar.com/tab/5953361"
+  },
+  {
+    "id": "98",
+    "title": "I see fire",
+    "artist": "Ed Sheeran",
+    "type": "link",
+    "url": "https://spiewnik.wywrota.pl/ed-sheeran/i-see-fire"
+  },
+  {
+    "id": "99",
+    "title": "Jolka, Jolka",
+    "artist": "Budka Suflera",
+    "type": "link",
+    "url": "https://spiewnik.wywrota.pl/budka-suflera/jolka-jolka-pamietasz"
+  },
+  {
+    "id": "100",
+    "title": "Kto powie mi jak",
+    "artist": "Kwiat Jabłoni",
+    "type": "link",
+    "url": "https://spiewnik.wywrota.pl/budka-suflera/jolka-jolka-pamietasz"
+  },
+  {
+    "id": "101",
+    "title": "Mrs. Robinson",
+    "artist": "Simon & Garfunkel",
+    "type": "link",
+    "url": "https://tabs.ultimate-guitar.com/tab/simon-garfunkel/mrs-robinson-chords-83959"
+  },
+  {
+    "id": "102",
+    "title": "Autobusy i tramwaje",
+    "artist": "T.Love",
+    "type": "image",
+    "file": "autobusy-i-tramwaje.png"
+  },
+  {
+    "id": "103",
+    "title": "Baranek",
+    "artist": "Stanisław Staszewski, Adam Mickiewicz",
+    "type": "image",
+    "file": "baranek.png"
+  },
+  {
+    "id": "104",
+    "title": "Buka",
+    "artist": "Kwiat Jabłoni",
+    "type": "image",
+    "file": "buka.png"
+  },
+  {
+    "id": "105",
+    "title": "Can't help falling in love",
+    "artist": "Elvis Presley",
+    "type": "image",
+    "file": "cant-help-falling-in-love.png"
+  },
+  {
+    "id": "106",
+    "title": "Ciągle pada",
+    "artist": "Czerwone Gitary",
+    "type": "image",
+    "file": "ciagle-pada.png"
+  },
+  {
+    "id": "107",
+    "title": "Chryzantemy złociste",
+    "artist": "Nieznany",
+    "type": "image",
+    "file": "chryzantemy-zlociste.png"
+  },
+  {
+    "id": "108",
+    "title": "Czerwone korale",
+    "artist": "Brathanki",
+    "type": "image",
+    "file": "czerwone-korale.png"
+  },
+  {
+    "id": "109",
+    "title": "Długość dźwięku samotności",
+    "artist": "Myslovitz",
+    "type": "image",
+    "file": "dlugosc-dzwieku-samotnosci.png"
+  },
+  {
+    "id": "110",
+    "title": "Dziś późno pójdę spać",
+    "artist": "Kwiat Jabłoni",
+    "type": "image",
+    "file": "dzis-pozno-pojde-spac.png"
+  },
+  {
+    "id": "111",
+    "title": "House of the Rising Sun",
+    "artist": "The Animals",
+    "type": "image",
+    "file": "house-of-the-rising-sun.png"
+  },
+  {
+    "id": "112",
+    "title": "Jolka jolka",
+    "artist": "Budka Suflera",
+    "type": "image",
+    "file": "jolka-jolka.png"
+  },
+  {
+    "id": "113",
+    "title": "King",
+    "artist": "T.Love",
+    "type": "image",
+    "file": "king.png"
+  },
+  {
+    "id": "114",
+    "title": "Knocking on heaven's door",
+    "artist": "Bob Dylan",
+    "type": "image",
+    "file": "knocking-on-heavens-door.png"
+  },
+  {
+    "id": "115",
+    "title": "Kocham cię jak Irlandię",
+    "artist": "Kobranocka",
+    "type": "image",
+    "file": "kocham-cie-jak-irlandie-przed-szczesciem-zywic-obawe-ee-as.png"
+  },
+  {
+    "id": "116",
+    "title": "Małgośka",
+    "artist": "Maryla Rodowicz",
+    "type": "image",
+    "file": "malgoska.png"
+  },
+  {
+    "id": "117",
+    "title": "My cyganie",
+    "artist": "Tradycyjna",
+    "type": "image",
+    "file": "my-cyganie.png"
+  },
+  {
+    "id": "118",
+    "title": "Na jednej z dzikich plaż",
+    "artist": "Rotary",
+    "type": "image",
+    "file": "na-jednej-z-dzikich-plaz.png"
+  },
+  {
+    "id": "119",
+    "title": "Nazywali go marynarz",
+    "artist": "Artur Andrus",
+    "type": "image",
+    "file": "nazywali-go-marynarz.png"
+  },
+  {
+    "id": "120",
+    "title": "Nie ma nie ma ciebie",
+    "artist": "Kayah",
+    "type": "image",
+    "file": "nie-ma-nie-ma-ciebie-hej-bog-sie-rodzi-f.png"
+  },
+  {
+    "id": "121",
+    "title": "Niemożliwe",
+    "artist": "Kwiat Jabłoni",
+    "type": "image",
+    "file": "niemozliwe.png"
+  },
+  {
+    "id": "122",
+    "title": "One more cup of coffee",
+    "artist": "Bob Dylan",
+    "type": "image",
+    "file": "one-more-cup-of-coffee.png"
+  },
+  {
+    "id": "123",
+    "title": "Peggy brown",
+    "artist": "Myslovitz",
+    "type": "image",
+    "file": "peggy-brown.png"
+  },
+  {
+    "id": "124",
+    "title": "Piłem w spale spałem w pile",
+    "artist": "Artur Andrus",
+    "type": "image",
+    "file": "pilem-w-spale-spalem-w-pile.png"
+  },
+  {
+    "id": "125",
+    "title": "Radioactive",
+    "artist": "Imagine Dragons",
+    "type": "image",
+    "file": "radioactive.png"
+  },
+  {
+    "id": "126",
+    "title": "Sen Katarzyny II",
+    "artist": "Jacek Kaczmarski",
+    "type": "image",
+    "file": "sen-katarzyny-il.png"
+  },
+  {
+    "id": "127",
+    "title": "Someone like you",
+    "artist": "Adele",
+    "type": "image",
+    "file": "someone-like-you.png"
+  },
+  {
+    "id": "128",
+    "title": "Szary świat",
+    "artist": "Kwiat Jabłoni",
+    "type": "image",
+    "file": "szary-swiat.png"
+  },
+  {
+    "id": "129",
+    "title": "Take me home country roads",
+    "artist": "John Denver",
+    "type": "image",
+    "file": "take-me-home-country-roads.png"
+  },
+  {
+    "id": "130",
+    "title": "Takie Tango",
+    "artist": "Budka Suflera",
+    "type": "image",
+    "file": "takie-tango.png"
+  },
+  {
+    "id": "131",
+    "title": "The Sound of Silence",
+    "artist": "Simon & Garfunkel",
+    "type": "image",
+    "file": "the-sound-of-silence.png"
+  },
+  {
+    "id": "132",
+    "title": "Tyle słońca w całym mieście",
+    "artist": "Anna Jantar",
+    "type": "image",
+    "file": "tyle-slonca-w-calym-miescie.png"
+  },
+  {
+    "id": "133",
+    "title": "W moim ogródecku",
+    "artist": "Tradycyjna",
+    "type": "image",
+    "file": "w-moim-ogrodecku.png"
+  },
+  {
+    "id": "134",
+    "title": "Warszawa",
+    "artist": "T.Love",
+    "type": "image",
+    "file": "warszawa.png"
+  },
+  {
+    "id": "135",
+    "title": "Wind of change",
+    "artist": "Scorpions",
+    "type": "image",
+    "file": "wind-of-change.png"
+  },
+  {
+    "id": "136",
+    "title": "Wish you were here",
+    "artist": "Pink Floyd",
+    "type": "image",
+    "file": "wish-you-were-here.png"
+  },
+  {
+    "id": "137",
+    "title": "Wodymidaj",
+    "artist": "Kwiat Jabłoni",
+    "type": "image",
+    "file": "wodymidaj.png"
+  },
+  {
+    "id": "138",
+    "title": "Zacznij od Bacha",
+    "artist": "Zbigniew Wodecki",
+    "type": "image",
+    "file": "ii-i-slow-tyle-znasz-uczonych-cicho-przez-noc-c7fas.png"
+  },
+  {
+    "id": "139",
+    "title": "Zanim pójdę",
+    "artist": "Happysad",
+    "type": "image",
+    "file": "zanim-pojde.png"
+  },
+  {
+    "id": "140",
+    "title": "Zrobię mężczyzn z was",
+    "artist": "Mulan",
+    "type": "image",
+    "file": "zrobie-mezczyzn-z-was.png"
+  },
+  {
+    "id": "141",
+    "title": "Morskie opowieści",
+    "artist": "Szanty",
+    "type": "image",
+    "file": "morskie-opowiesci.png"
+  },
+  {
+    "id": "142",
+    "title": "Yesterday",
+    "artist": "The Beatles",
+    "type": "image",
+    "file": "yesterday.png"
   }
 ]
