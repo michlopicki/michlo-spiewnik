@@ -57,7 +57,7 @@ function Home({ songs }) {
           <input
             type="text"
             className="search-input"
-            placeholder="Szukaj piosenki lub wykonawcy..."
+            placeholder="Search for a song or artist..."
             value={query}
             onChange={(e) => setQuery(e.target.value)}
           />
@@ -69,7 +69,7 @@ function Home({ songs }) {
               className={`tag-pill ${selectedTags.length === 0 ? 'active' : ''}`}
               onClick={() => setSelectedTags([])}
             >
-              Wszystkie
+              All
             </button>
             {allTags.map(tag => (
               <button 
