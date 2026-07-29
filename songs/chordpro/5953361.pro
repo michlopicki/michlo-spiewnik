@@ -14,15 +14,15 @@
 {c: Verse 1}
 
 [G]Ma stary [Gm]tata Turek
-[Fm]Sześć za[G]radnych c&oacute;rek
+[Fm]Sześć za[G]radnych córek
 [G]Ajsze Baszak [Gm]Fatma [Fm]Dżanan Burczu [Gm]i Raszida
-[G]Gdy się na [Gm]c&oacute;rki złości
+[G]Gdy się na [Gm]córki złości
 [Fm]To w tej [G]kolejności
 [G]Ajsze Baszak [Gm]Fatma [Fm]Dżanan Burczu [Gm]i Raszida
-[G]Kt&oacute;rej[Gm]ś nocy wyszły z domu
+[G]Której[Gm]ś nocy wyszły z domu
 [Fm]I uciekły [G]po kryjomu
 [G]Ajsze Baszak [Gm]Fatma [Fm]Dżanan Burczu [Gm]i Raszida
-[G]Dostał tata [Gm]wieści z kt&oacute;rych
+[G]Dostał tata [Gm]wieści z których
 [Fm]Wyszło że są w [G]mieście Zurych
 [Fm]Tatę trafił [Gm]szlag
 [Fm]I zakrzyknął [G]tak
@@ -30,9 +30,9 @@
 
 {c: Chorus}
 
-[Gm]Cyniczne c&oacute;ry Zurychu
+[Gm]Cyniczne córy Zurychu
 [F]Potępiam was wszystkie w czambuł
-[Cm]Cyniczne c&oacute;ry Zurychu
+[Cm]Cyniczne córy Zurychu
 [D]Płacze za wami [Gm]Stambuł
 
 [G]AaAaAaAa[Fm]AaA[G]aA[Gm]aAa[G]...
@@ -45,7 +45,7 @@
 {c: Verse 2}
 
 [G]A już po [Gm]latach paru
-[Fm]Wyszły [G]za Szwajcar&oacute;w
+[Fm]Wyszły [G]za Szwajcarów
 [G]Ajsze Baszak [Gm]Fatma [Fm]Dżanan Burczu [Gm]i Raszida
 [G]I stało [Gm]im się bliskie
 [Fm]Jezioro [G]Zuryskie
@@ -61,9 +61,9 @@
 
 {c: Chorus}
 
-[Gm]Cyniczne c&oacute;ry Zurychu
+[Gm]Cyniczne córy Zurychu
 [F]Potępiam was wszystkie w czambuł
-[Cm]Cyniczne c&oacute;ry Zurychu
+[Cm]Cyniczne córy Zurychu
 [D]Płacze za wami [Gm]Stambuł
 
 [G]AaAaAaAa[Fm]AaA[G]aA[Gm]aAa[G]...
@@ -92,21 +92,19 @@
 
 {c: Chorus}
 
-[Gm]Cyniczne c&oacute;ry Zurychu
+[Gm]Cyniczne córy Zurychu
 [F]Potępiam was wszystkie w czambuł
-[Cm]Cyniczne c&oacute;ry Zurychu
+[Cm]Cyniczne córy Zurychu
 [D]Płacze za wami [Gm]Stambuł
 
-[Gm]Cyniczne c&oacute;ry Zurychu
+[Gm]Cyniczne córy Zurychu
 [F]Potępiam was wszystkie w czambuł
-[Cm]Cyniczne c&oacute;ry Zurychu
+[Cm]Cyniczne córy Zurychu
 [D]Płacze za wami [Gm]Stambuł
 
 [G]AaAaAaAa[Fm]AaA[G]aA[Gm]aAa[G]...
 [G]AaAaAaAa[Fm]AaA[G]aA[Gm]aAa[G]...
 [G]AaAaAaAa[Fm]AaA[G]aA[Gm]aAa[G]...
-N.C.*
+
 AaAaAaAaAaAaAaAa...
 
-
-*only tap on the guitar body rhythmically
