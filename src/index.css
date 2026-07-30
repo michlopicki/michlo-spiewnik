@@ -397,3 +397,8 @@ a:hover {
   color: #000;
   transform: translateY(-2px);
 }
+
+/* Spacing for chords without lyrics (Intro/Outro) */
+.chord-sheet .column.empty-lyrics {
+  margin-right: 0.8em;
+}

@@ -119,18 +119,20 @@ function SongView({ songs }) {
 
   const [zoomLevel, setZoomLevel] = useState(1);
 
-  // Funkcja konwertująca akord z formatu międzynarodowego na polski (z małymi literami dla moll, H zamiast B itp.)
-  const toPolishChord = (chord) => {
-    if (!chord) return chord;
-    // Regex do wyciągnięcia: Bazy(A-G), Znaku(b/#), Moll(m), Reszty
-    const match = chord.match(/^([A-G])([b#]?)(m?)(.*)$/);
-    if (!match) return chord;
+  // Funkcja konwertująca pojedynczy segment akordu na polską notację
+  const segmentToPolish = (segment) => {
+    if (!segment) return segment;
+    let newSeg = segment;
+    
+    // B -> H, Bb -> B
+    newSeg = newSeg.replace(/^B(?!b)/, 'H');
+    newSeg = newSeg.replace(/^Bb/, 'B');
+    
+    // Regex do wyciągnięcia: Bazy(A-H), Znaku(b/#), Moll(m), Reszty
+    const match = newSeg.match(/^([A-H])([b#]?)(m?)(.*)$/);
+    if (!match) return newSeg;
 
     let [_, base, acc, min, rest] = match;
-
-    // H zamiast B
-    if (base === 'B' && acc === '') base = 'H';
-    else if (base === 'B' && acc === 'b') { base = 'B'; acc = ''; }
 
     // Krzyżyki i bemole
     if (acc === '#') {
@@ -149,6 +151,13 @@ function SongView({ songs }) {
     }
 
     return base + acc + rest;
+  };
+
+  // Funkcja konwertująca cały akord (z ewentualnym basem po ukośniku)
+  const toPolishChord = (chord) => {
+    if (!chord) return chord;
+    // Dzielimy akord po ukośniku (jeśli występuje) i konwertujemy obie części
+    return chord.split('/').map(segmentToPolish).join('/');
   };
 
   useEffect(() => {
@@ -229,6 +238,10 @@ function SongView({ songs }) {
           return `<div class="chord">${toPolishChord(chordText)}</div>`;
         });
       }
+
+      // Poprawka na zlewające się akordy w Intro/Outro (gdzie nie ma tekstu piosenki)
+      // Dodajemy klasę empty-lyrics do kolumn, które nie mają żadnego tekstu pod spodem
+      html = html.replace(/<div class="column">(.*?)<div class="lyrics">\s*<\/div><\/div>/g, '<div class="column empty-lyrics">$1<div class="lyrics"></div></div>');
 
       return <div className="chord-sheet" style={{ zoom: zoomLevel }} dangerouslySetInnerHTML={{ __html: html }} />;
     } catch (e) {
