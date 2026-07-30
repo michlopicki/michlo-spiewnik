@@ -1635,6 +1635,17 @@
     "file": "hotel-california-chords-46190.pro"
   },
   {
+    "id": "145",
+    "title": "Les Champs-Élysées",
+    "artist": "Joe Dassin",
+    "type": "chordpro",
+    "file": "879366.pro",
+    "tags": [
+      "french",
+      "rock"
+    ]
+  },
+  {
     "id": "146",
     "title": "Stand By Me",
     "artist": "Ben E. King",
@@ -1937,13 +1948,13 @@
   },
   {
     "id": "173",
-    "title": "Les Champs-Élysées",
-    "artist": "Joe Dassin",
+    "title": "Santiano",
+    "artist": "Hugues Aufray",
     "type": "chordpro",
-    "file": "879366.pro",
+    "file": "santiano-chords-1229498.pro",
     "tags": [
-      "english",
-      "rock"
+      "french",
+      "folk"
     ]
   }
 ]
