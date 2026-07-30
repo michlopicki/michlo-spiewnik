@@ -1635,18 +1635,6 @@
     "file": "hotel-california-chords-46190.pro"
   },
   {
-    "id": "145",
-    "title": "Długość dźwięku samotności",
-    "artist": "Artur Rojek",
-    "type": "link",
-    "url": "https://spiewnik.wywrota.pl/artur-rojek/dlugosc-dzwieku-samotnosci",
-    "tags": [
-      "polskie",
-      "pop",
-      "rock"
-    ]
-  },
-  {
     "id": "146",
     "title": "Stand By Me",
     "artist": "Ben E. King",
@@ -1942,6 +1930,17 @@
     "artist": "Eric Clapton",
     "type": "chordpro",
     "file": "tears-in-haven.pro",
+    "tags": [
+      "english",
+      "rock"
+    ]
+  },
+  {
+    "id": "173",
+    "title": "Les Champs-Élysées",
+    "artist": "Joe Dassin",
+    "type": "chordpro",
+    "file": "879366.pro",
     "tags": [
       "english",
       "rock"
