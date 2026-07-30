@@ -1,6 +1,6 @@
 {title: Santiano}
 {artist: Hugues Aufray}
-{tag: french}
+{tag: françaises}
 {tag: folk}
 
 {c: Verse}
