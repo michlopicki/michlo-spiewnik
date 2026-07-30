@@ -1,6 +1,6 @@
 {title: Les Champs-Élysées}
 {artist: Joe Dassin}
-{tag: english}
+{tag: françaises}
 {tag: rock}
 
 [Dm]     [G7]     [C]    [Am]     [Dm]     [G]    [C]
