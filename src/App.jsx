@@ -43,8 +43,8 @@ function Home({ songs }) {
   const toggleTag = (tag) => {
     setSelectedTags(prev => 
       prev.includes(tag) 
-        ? prev.filter(t => t !== tag)
-        : [...prev, tag]
+        ? []
+        : [tag]
     );
   };
 
