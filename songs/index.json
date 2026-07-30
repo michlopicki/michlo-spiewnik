@@ -37,12 +37,12 @@
     "id": "4",
     "title": "Zawsze tam, gdzie ty",
     "artist": "Lady Pank",
-    "type": "link",
-    "url": "https://spiewnik.wywrota.pl/lady-pank/zawsze-tam-gdzie-ty",
+    "type": "chordpro",
     "tags": [
       "polskie",
       "rock"
-    ]
+    ],
+    "file": "zawsze-tam-gdzie-ty.pro"
   },
   {
     "id": "5",
@@ -994,7 +994,7 @@
     "type": "image",
     "file": "hallelujah.png",
     "tags": [
-      "english",
+      "polskie",
       "poezja śpiewana"
     ]
   },
@@ -1105,35 +1105,35 @@
     "id": "98",
     "title": "I see fire",
     "artist": "Ed Sheeran",
-    "type": "link",
-    "url": "https://spiewnik.wywrota.pl/ed-sheeran/i-see-fire",
+    "type": "chordpro",
     "tags": [
       "english",
       "pop"
-    ]
+    ],
+    "file": "i-see-fire.pro"
   },
   {
     "id": "99",
     "title": "Jolka, Jolka",
     "artist": "Budka Suflera",
-    "type": "link",
-    "url": "https://spiewnik.wywrota.pl/budka-suflera/jolka-jolka-pamietasz",
+    "type": "chordpro",
     "tags": [
       "polskie",
       "rock"
-    ]
+    ],
+    "file": "jolka-jolka.pro"
   },
   {
     "id": "100",
     "title": "Kto powie mi jak",
     "artist": "Kwiat Jabłoni",
-    "type": "link",
-    "url": "https://spiewnik.wywrota.pl/budka-suflera/jolka-jolka-pamietasz",
+    "type": "chordpro",
     "tags": [
       "polskie",
       "pop",
       "folk"
-    ]
+    ],
+    "file": "kto-powie-mi-jak.pro"
   },
   {
     "id": "101",
@@ -1672,12 +1672,12 @@
     "id": "148",
     "title": "Wake Me Up",
     "artist": "Avicii",
-    "type": "link",
-    "url": "https://spiewnik.wywrota.pl/avicii/avicii-wake-me-up",
+    "type": "chordpro",
     "tags": [
       "english",
       "pop"
-    ]
+    ],
+    "file": "wake-me-up.pro"
   },
   {
     "id": "149",
